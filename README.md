@@ -16,7 +16,6 @@
 
 ## <span id="2022">✔2022 </span> [       «🎯Back To Top»       ](#)
 
----
 
 - (AAAI 2022) **OoDHDR-Codec: Out-of-Distribution Generalization for HDR Image Compression**, Cao, Linfeng and Jiang, Aofan and Li, Wei and Wu, Huaying and Ye, Nanyang [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-8610.CaoL.pdf) (HDR)
   
@@ -27,11 +26,18 @@
 
 - (arXiv preprint 2022) **Transformations in Learned Image Compression from Modulation Perspective**, Bao, Youneng and Meng, Fangyang and Tan, Wen and Li, Chao and Tian, Yonghong and Liang, Yongsheng [[paper]](https://arxiv.org/pdf/2203.02158.pdf) 
 
+- (arXiv preprint 2022) **Identity Preserving Loss for Learned Image Compression**, Xiao, Jiuhong and Aggarwal, Lavisha and Banerjee, Prithviraj and Aggarwal, Manoj and Medioni, Gerard [[paper]](https://arxiv.org/pdf/2204.10869.pdf) 
+
+- (arXiv preprint 2022) **High-Efficiency Lossy Image Coding Through Adaptive Neighborhood Information Aggregation**, Lu, Ming and Ma, Zhan [[paper]](https://arxiv.org/pdf/2204.11448.pdf) (E)
+
+- (arXiv preprint 2022) **Learning Weighting Map for Bit-Depth Expansion within a Rational Range**, Liu, Yuqing and Jia, Qi and Zhang, Jian and Fan, Xin and Wang, Shanshe and Ma, Siwei and Gao, Wen [[paper]](https://arxiv.org/pdf/2204.12039.pdf) [[code]](https://github.com/yuqing-liu-dut/bit-depth-expansion)
+
+
+
 ---
 
 ## <span id="2021">✔2021 </span> [       «🎯Back To Top»       ](#)
 
----
 - (TPAMI 2021) **Learning end-to-end lossy image compression: A benchmark**, Hu, Yueyu and Yang, Wenhan and Ma, Zhan and Liu, Jiaying [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9376651) [[code]](https://github.com/huzi96/Coarse2Fine-PyTorch)(Benchmark)
   
 - (IJCV 2021) **Semantics-to-signal scalable image compression with learned revertible representations**, Liu, Kang and Liu, Dong and Li, Li and Yan, Ning and Li, Houqiang [[paper]](https://link.springer.com/content/pdf/10.1007/s11263-021-01491-7.pdf1)[[code](https://github.com/micmic123/QmapCompression)] (Scalable)
@@ -110,13 +116,11 @@
 
 ## <span id="2020">✔2020 </span> [       «🎯Back To Top»       ](#)
 
----
 
 ---
 
 ## <span id="2019">✔2019 </span> [       «🎯Back To Top»       ](#)
 
----
   
 
 ---
