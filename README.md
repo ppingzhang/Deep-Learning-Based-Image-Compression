@@ -32,6 +32,7 @@
 
 - (arXiv preprint 2022) **Learning Weighting Map for Bit-Depth Expansion within a Rational Range**, Liu, Yuqing and Jia, Qi and Zhang, Jian and Fan, Xin and Wang, Shanshe and Ma, Siwei and Gao, Wen [[paper]](https://arxiv.org/pdf/2204.12039.pdf) [[code]](https://github.com/yuqing-liu-dut/bit-depth-expansion)
 
+- (CVPR 2022) **Joint Global and Local Hierarchical Priors for Learned Image Compression**, Kim, Jun-Hyuk and Heo, Byeongho and Lee, Jong-Seok [[paper]](https://arxiv.org/pdf/2112.04487.pdf) (E)
 
 
 ---
@@ -98,8 +99,6 @@
 - (arXiv preprint 2021) **Implicit Neural Representations for Image Compression**, Str{\"u}mpler, Yannick and Postels, Janis and Yang, Ren and Van Gool, Luc and Tombari, Federico [[paper]](https://arxiv.org/pdf/2112.04267.pdf) 
 
 - (arXiv preprint 2021) **A Novel Framework for Image-to-image Translation and Image Compression**, Yang, Fei and Wang, Yaxing and Herranz, Luis and Cheng, Yongmei and Mozerov, Mikhail [[paper]](https://arxiv.org/pdf/2111.13105.pdf) (I2I)
-
-- (arXiv preprint 2021) **Joint Global and Local Hierarchical Priors for Learned Image Compression**, Kim, Jun-Hyuk and Heo, Byeongho and Lee, Jong-Seok [[paper]](https://arxiv.org/pdf/2112.04487.pdf) (E)
 
 - (arXiv preprint 2021) **Semantic-assisted image compression**, Sun, Qizheng and Guo, Caili and Yang, Yang and Chen, Jiujiu and Xue, Xijun [[paper]](https://arxiv.org/pdf/2201.12599.pdf)
 
