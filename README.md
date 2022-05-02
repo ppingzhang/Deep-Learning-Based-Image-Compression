@@ -87,6 +87,7 @@
 
 - (ICIP 2021) **Graph-Convolution Network for Image Compression**, Yang, Chunhui and Ma, Yi and Yang, Jiayu and Liu, Shiyi and Wang, Ronggang [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9506704) 
 
+- (PMLR 2021) **Soft then hard: Rethinking the quantization in neural image compression**, Z Guo，Z Zhang，R Feng，Z Chen [[paper]](http://proceedings.mlr.press/v139/guo21c/guo21c.pdf) 
 
 - (arXiv preprint 2021) **Learned Image Compression for Machine Perception**, Codevilla, Felipe and Simard, Jean Gabriel and Goroshin, Ross and Pal, Chris [[paper]](https://arxiv.org/pdf/2111.02249.pdf) (Perceptual)
 
@@ -94,11 +95,11 @@
 
 - (arXiv preprint 2021) **DPICT: Deep Progressive Image Compression Using Trit-Planes**, Lee, Jae-Han and Jeon, Seungmin and Choi, Kwang Pyo and Park, Youngo and Kim, Chang-Su [[paper]](https://arxiv.org/pdf/2112.06334.pdf) (VR)
 
-- (arXiv preprint 2021) **Implicit Neural Representations for Image Compression**, Str{\"u}mpler, Yannick and Postels, Janis and Yang, Ren and Van Gool, Luc and Tombari, Federico [[paper]](https://arxiv.org/pdf/2112.04267.pdf) (I2I)
+- (arXiv preprint 2021) **Implicit Neural Representations for Image Compression**, Str{\"u}mpler, Yannick and Postels, Janis and Yang, Ren and Van Gool, Luc and Tombari, Federico [[paper]](https://arxiv.org/pdf/2112.04267.pdf) 
 
 - (arXiv preprint 2021) **A Novel Framework for Image-to-image Translation and Image Compression**, Yang, Fei and Wang, Yaxing and Herranz, Luis and Cheng, Yongmei and Mozerov, Mikhail [[paper]](https://arxiv.org/pdf/2111.13105.pdf) (I2I)
 
-- (arXiv preprint 2021) **Joint Global and Local Hierarchical Priors for Learned Image Compression**, Kim, Jun-Hyuk and Heo, Byeongho and Lee, Jong-Seok [[paper]](https://arxiv.org/pdf/2112.04487.pdf) (I2I)
+- (arXiv preprint 2021) **Joint Global and Local Hierarchical Priors for Learned Image Compression**, Kim, Jun-Hyuk and Heo, Byeongho and Lee, Jong-Seok [[paper]](https://arxiv.org/pdf/2112.04487.pdf) (E)
 
 - (arXiv preprint 2021) **Semantic-assisted image compression**, Sun, Qizheng and Guo, Caili and Yang, Yang and Chen, Jiujiu and Xue, Xijun [[paper]](https://arxiv.org/pdf/2201.12599.pdf)
 
@@ -111,6 +112,9 @@
 - (arXiv preprint 2021) **A Cross Channel Context Model for Latents in Deep Image Compression**, Ma, Changyue and Wang, Zhao and Liao, Ruling and Ye, Yan [[paper]](https://arxiv.org/pdf/2103.02884.pdf)
 
 - (arXiv preprint 2021) **Universal Efficient Variable-rate Neural Image Compression**, Yin, Shanzhi and Li, Chao and Bao, Youneng and Liang, Yongshang [[paper]](https://arxiv.org/pdf/2111.11305.pdf)
+
+- (arXiv preprint 2021) **Online Meta Adaptation for Variable-Rate Learned Image Compression**, Wei Jiang, Wei Wang, Songnan Li, Shan Liu [[paper]](https://arxiv.org/abs/2111.08256) (VR)
+
 
 ---
 
