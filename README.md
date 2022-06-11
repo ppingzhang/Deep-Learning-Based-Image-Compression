@@ -16,7 +16,9 @@
 
 ## <span id="2022">✔2022 </span> [       «🎯Back To Top»       ](#)
 
-
+- (CVPR 2022) **Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression** Zhu, Xiaosu and Song, Jingkuan and Gao, Lianli and Zheng, Feng and Shen, Heng Tao. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Unified_Multivariate_Gaussian_Mixture_for_Efficient_Neural_Image_Compression_CVPR_2022_paper.pdf)]
+- (CVPR 2022) **Deep Stereo Image Compression via Bi-directional Coding**, Lei, Jianjun and Liu, Xiangrui and Peng, Bo and Jin, Dengchao and Li, Wanqing and Gu, Jingxiao [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lei_Deep_Stereo_Image_Compression_via_Bi-Directional_Coding_CVPR_2022_paper.pdf)]
+- (CVPR 2022) **LSVC: A Learning-based Stereo Video Compression Framework**, Chen, Zhenghao and Lu, Guo and Hu, Zhihao and Liu, Shan and Jiang, Wei and Xu, Dong [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_LSVC_A_Learning-Based_Stereo_Video_Compression_Framework_CVPR_2022_paper.pdf) 
 - (AAAI 2022) **OoDHDR-Codec: Out-of-Distribution Generalization for HDR Image Compression**, Cao, Linfeng and Jiang, Aofan and Li, Wei and Wu, Huaying and Ye, Nanyang [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-8610.CaoL.pdf) (HDR)
   
 - (arXiv preprint 2022) **Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression**, Zhu, Xiaosu and Song, Jingkuan and Gao, Lianli and Zheng, Feng and Shen, Heng Tao [[paper]](https://arxiv.org/pdf/2203.10897.pdf)[[code]](https://github.com/xiaosu-zhu/McQuic) (E)
@@ -33,6 +35,8 @@
 - (arXiv preprint 2022) **Learning Weighting Map for Bit-Depth Expansion within a Rational Range**, Liu, Yuqing and Jia, Qi and Zhang, Jian and Fan, Xin and Wang, Shanshe and Ma, Siwei and Gao, Wen [[paper]](https://arxiv.org/pdf/2204.12039.pdf) [[code]](https://github.com/yuqing-liu-dut/bit-depth-expansion)
 
 - (CVPR 2022) **Joint Global and Local Hierarchical Priors for Learned Image Compression**, Kim, Jun-Hyuk and Heo, Byeongho and Lee, Jong-Seok [[paper]](https://arxiv.org/pdf/2112.04487.pdf) (E)
+
+- (arXiv preprint 2022) **Joint Image Compression and Denoising via Latent-Space Scalability**, Ranjbar Alvar, Saeed and Ulhaq, Mateen and Choi, Hyomin and Baji{\'c}, Ivan V [[paper]](https://arxiv.org/pdf/2205.01874.pdf) 
 
 
 ---
