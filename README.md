@@ -16,6 +16,7 @@
 
 ## <span id="2022">✔2022 </span> [       «🎯Back To Top»       ](#)
 
+
 - (CVPR 2022) **Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression** Zhu, Xiaosu and Song, Jingkuan and Gao, Lianli and Zheng, Feng and Shen, Heng Tao. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Unified_Multivariate_Gaussian_Mixture_for_Efficient_Neural_Image_Compression_CVPR_2022_paper.pdf)]
 - (CVPR 2022) **Deep Stereo Image Compression via Bi-directional Coding**, Lei, Jianjun and Liu, Xiangrui and Peng, Bo and Jin, Dengchao and Li, Wanqing and Gu, Jingxiao [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lei_Deep_Stereo_Image_Compression_via_Bi-Directional_Coding_CVPR_2022_paper.pdf)]
 - (CVPR 2022) **LSVC: A Learning-based Stereo Video Compression Framework**, Chen, Zhenghao and Lu, Guo and Hu, Zhihao and Liu, Shan and Jiang, Wei and Xu, Dong [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_LSVC_A_Learning-Based_Stereo_Video_Compression_Framework_CVPR_2022_paper.pdf) 
