@@ -19,6 +19,10 @@
 ## <span id="2024">✔2024 </span> [       «🎯Back To Top»       ](#)
 - (TMM 2024) **Neural Network Coding of Difference Updates for Efficient Distributed Learning Communication** Sheng, Xihua and Li, Li and Liu, Dong and Li, Houqiang [paper](https://arxiv.org/pdf/2401.15864.pdf)
 
+
+- (TCSVT 2024) **Rate-Distortion Optimized Cross Modal Compression with Multiple Domains** Gao, Junlong and Jia, Chuanmin and Huang, Zhimeng and Wang, Shanshe and Ma, Siwei and Gao, Wen [paper](https://ieeexplore.ieee.org/abstract/document/10430161)
+
+
 - (TGRS 2024) **Remote Sensing Image Compression Based on High-Frequency and Low-Frequency Components** Xiang, Shao and Liang, Qiaokang [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10379598&casa_token=8o7Rvla9bkIAAAAA:BdM70h2rnznpm8AjLpmF2OaaY4LOyj96msdVfnJyaYeQ-EVVWgoAz8YSFYoxbq2tG6L95AQr)
 
 
@@ -29,7 +33,11 @@
 - (Arxiv 2024) **FLLIC: Functionally Lossless Image Compression** Zhang, Xi and Wu, Xiaolin [paper](https://arxiv.org/pdf/2401.13616.pdf)
 - (Arxiv 2024) **Fast Implicit Neural Representation Image Codec in Resource-limited Devices** Liu, Xiang and Chen, Jiahong and Chen, Bin and Liu, Zimo and An, Baoyi and Xia, Shu-Tao [paper](https://arxiv.org/pdf/2401.12587.pdf)
 - (Arxiv 2024) **Robustly overfitting latents for flexible neural image compression** Perugachi-Diaz, Yura and Gansekoele, Arwin and Bhulai, Sandjai [paper](https://arxiv.org/pdf/2401.17789.pdf)
+- (Arxiv 2024) **Saliency-aware End-to-end Learned Variable-Bitrate 360-degree Image Compression** Gungordu, Oguzhan and Tekalp, A Murat [paper](https://arxiv.org/pdf/2402.08862.pdf)
+- (Arxiv 2024) **Joint End-to-End Image Compression and Denoising: Leveraging Contrastive Learning and Multi-Scale Self-ONNs** Xie, Yuxin and Yu, Li and Pakdaman, Farhad and Gabbouj, Moncef[paper](https://arxiv.org/pdf/2402.05582.pdf)
+- (Arxiv 2024) **LEARNED COMPRESSION OF ENCODING DISTRIBUTIONS** Ulhaq, Mateen and Bajic, Ivan V[paper](https://www.sfu.ca/~mulhaq/assets/pdf/2024-icip-learned-compression-of-encoding-distributions.pdf)
 
+- (VICP 2024) **Flexible Coding Order for Learned Image Compression** Li, Yuqi and Zhang, Haotian and Liu, Dong [paper](https://ieeexplore.ieee.org/abstract/document/10402631)
 - (VICP 2024) **Variable-rate Learned Image Compression with Adaptive Quantization Step Size** Mei, Feihong and Li, Li and Liu, Dong [paper](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10402767&ref=)
 - (VICP 2024) **Learned Progressive Image Compression With Spatial Autoregression** Li, Hangyu and Jiang, Wei and Li, Litian and Zhai, Yongqi and Wang, Ronggang [paper](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10402651&ref=)
 - (VICP 2024) **Hybrid Implicit Neural Image Compression with Subpixel Context Model and Iterative Pruner** Tian, Wenxin and Li, Shaohui and Dai, Wenrui and Lu, Cewu and Hu, Weisheng and Zhang, Lin and Du, Junfeng and Xiong, Hongkai [paper](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10402791&ref=)
