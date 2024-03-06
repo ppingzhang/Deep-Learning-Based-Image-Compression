@@ -17,16 +17,28 @@
 
 
 ## <span id="2024">✔2024 </span> [       «🎯Back To Top»       ](#)
+
+- (CVPR 2024) **Towards Backward-Compatible Continual Learning of Image Compression** Duan, Zhihao and Lu, Ming and Yang, Justin and He, Jiangpeng and Ma, Zhan and Zhu, Fengqing [paper](https://arxiv.org/pdf/2402.18862v1.pdf)
+
+- (NeurIPS 2024) **Compression with bayesian implicit neural representations** Guo, Zongyu and Flamich, Gergely and He, Jiajun and Chen, Zhibo and Hern{\'a}ndez-Lobato, Jos{\'e} Miguel [paper](https://arxiv.org/pdf/2305.19185.pdf)
+
 - (TMM 2024) **Neural Network Coding of Difference Updates for Efficient Distributed Learning Communication** Sheng, Xihua and Li, Li and Liu, Dong and Li, Houqiang [paper](https://arxiv.org/pdf/2401.15864.pdf)
 
 
+- (TCSVT 2024) **EUICN: An Efficient Underwater Image Compression Network** Li, Mengyao and Shen, Liquan and Hua, Xia and Tian, Zhaoyi [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445326)
 - (TCSVT 2024) **Rate-Distortion Optimized Cross Modal Compression with Multiple Domains** Gao, Junlong and Jia, Chuanmin and Huang, Zhimeng and Wang, Shanshe and Ma, Siwei and Gao, Wen [paper](https://ieeexplore.ieee.org/abstract/document/10430161)
+
+- (ToMM 2024) **Perceptual Quality-Oriented Rate Allocation via Distillation from End-to-End Image Compression** Yang, Runyu and Liu, Dong and Ma, Siwei and Wu, Feng and Gao, Wen [paper](https://dl.acm.org/doi/pdf/10.1145/3650034)
 
 
 - (TGRS 2024) **Remote Sensing Image Compression Based on High-Frequency and Low-Frequency Components** Xiang, Shao and Liang, Qiaokang [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10379598&casa_token=8o7Rvla9bkIAAAAA:BdM70h2rnznpm8AjLpmF2OaaY4LOyj96msdVfnJyaYeQ-EVVWgoAz8YSFYoxbq2tG6L95AQr)
 
 
 - (WCACV 2024) **Neural Image Compression Using Masked Sparse Visual Representation** Jiang, Wei and Wang, Wei and Chen, Yue [paper](https://arxiv.org/pdf/2309.11661.pdf)
+
+
+- (Arxiv 2024) **LEARNED IMAGE COMPRESSION WITH TEXT QUALITY ENHANCEMENT** Lai, Chih-Yu and Tran, Dung and Koishida, Kazuhito[paper](https://arxiv.org/pdf/2402.08643.pdf)
+- (Arxiv 2024) **Variable-Rate Learned Image Compression with Multi-Objective Optimization and Quantization-Reconstruction Offsets** Kamisli, Fatih and Racape, Fabien and Choi, Hyomin[paper](https://arxiv.org/pdf/2402.18930v1.pdf)
 - (Arxiv 2024) **End-to-End Optimized Image Compression with the Frequency-Oriented Transform** Zhang, Yuefeng and Lin, Kai [paper](https://arxiv.org/pdf/2401.08194.pdf)
 - (Arxiv 2024) **Learned Image Compression with ROI-Weighted Distortion and Bit Allocation** Jiang, Wei and Zhai, Yongqi and Li, Hangyu and Wang, Ronggang [paper](https://arxiv.org/pdf/2401.08154.pdf)
 - (Arxiv 2024) **Semantic Ensemble Loss and Latent Refinement for High-Fidelity Neural Image Compression** Li, Daxin and Bai, Yuanchao and Wang, Kai and Jiang, Junjun and Liu, Xianming [paper](https://arxiv.org/pdf/2401.14007.pdf)
@@ -36,14 +48,13 @@
 - (Arxiv 2024) **Saliency-aware End-to-end Learned Variable-Bitrate 360-degree Image Compression** Gungordu, Oguzhan and Tekalp, A Murat [paper](https://arxiv.org/pdf/2402.08862.pdf)
 - (Arxiv 2024) **Joint End-to-End Image Compression and Denoising: Leveraging Contrastive Learning and Multi-Scale Self-ONNs** Xie, Yuxin and Yu, Li and Pakdaman, Farhad and Gabbouj, Moncef[paper](https://arxiv.org/pdf/2402.05582.pdf)
 - (Arxiv 2024) **LEARNED COMPRESSION OF ENCODING DISTRIBUTIONS** Ulhaq, Mateen and Bajic, Ivan V[paper](https://www.sfu.ca/~mulhaq/assets/pdf/2024-icip-learned-compression-of-encoding-distributions.pdf)
+- (Arxiv 2024) **Transformer-based Learned Image Compression for Joint Decoding and Denoising** Chen, Yi-Hsin and Ho, Kuan-Wei and Tsai, Shiau-Rung and Lin, Guan-Hsun and Gnutti, Alessandro and Peng, Wen-Hsiao and Leonardi, Riccardo[paper](https://arxiv.org/pdf/2402.12888v1.pdf)
 
 - (VICP 2024) **Flexible Coding Order for Learned Image Compression** Li, Yuqi and Zhang, Haotian and Liu, Dong [paper](https://ieeexplore.ieee.org/abstract/document/10402631)
 - (VICP 2024) **Variable-rate Learned Image Compression with Adaptive Quantization Step Size** Mei, Feihong and Li, Li and Liu, Dong [paper](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10402767&ref=)
 - (VICP 2024) **Learned Progressive Image Compression With Spatial Autoregression** Li, Hangyu and Jiang, Wei and Li, Litian and Zhai, Yongqi and Wang, Ronggang [paper](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10402651&ref=)
 - (VICP 2024) **Hybrid Implicit Neural Image Compression with Subpixel Context Model and Iterative Pruner** Tian, Wenxin and Li, Shaohui and Dai, Wenrui and Lu, Cewu and Hu, Weisheng and Zhang, Lin and Du, Junfeng and Xiong, Hongkai [paper](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10402791&ref=)
 - (VICP 2024) **Learned Progressive Image Compression With Spatial Autoregression** Tian, Wenxin and Li, Shaohui and Dai, Wenrui and Lu, Cewu and Hu, Weisheng and Zhang, Lin and Du, Junfeng and Xiong, Hongkai [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10402767)
-- (VICP 2023) **A Near Lossless Learned Image Coding Network Quantization Approach for Cross-Platform Inference** Hang, Xinyu and Jia, Chuanmin and Ma, Siwei and Gao, Wen [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402704&casa_token=SpFz9g7TeT8AAAAA:GNVUj1Qv03LvWGp3bF9iyCSr_-ZLx6-HNZM4vxYXFqs_yTFitBKet3htVPIc1LR4uKboCvnL)
-
 
 
 ---
@@ -92,12 +103,13 @@
 
 - (VCIP 2023) **Image Data Hiding in Neural Compressed Latent Representations** Huang, Chen-Hsiu and Wu, Ja-Ling[paper](https://ieeexplore.ieee.org/document/10402627)
 - (VICP 2023) **EVC: TOWARDS REAL-TIME NEURAL IMAGE COMPRESSION WITH MASK DECA** Wang, Guo-Hua and Li, Jiahao and Li, Bin and Lu, Yan [paper](https://arxiv.org/pdf/2302.05071.pdf)
+- (VICP 2023) **A Near Lossless Learned Image Coding Network Quantization Approach for Cross-Platform Inference** Hang, Xinyu and Jia, Chuanmin and Ma, Siwei and Gao, Wen [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402704&casa_token=SpFz9g7TeT8AAAAA:GNVUj1Qv03LvWGp3bF9iyCSr_-ZLx6-HNZM4vxYXFqs_yTFitBKet3htVPIc1LR4uKboCvnL)
+
 
 - (ICASSP 2023) **A Novel Cross-Component Context Model for End-to-End Wavelet Image Coding** Meyer, Anna and Kaup, Andr{\'e} [paper](https://arxiv.org/pdf/2303.05121.pdf)
 
-
+- (TCSVT 2024) **Lightweight Context Model Equipped aiWave in Response to the AVS Call for Evidence on Volumetric Medical Image Coding** Xue, Dongmei and Li, Li and Liu, Dong and Li, Houqiang [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10453226)
 - (TCSVT 2023) **MASIC: Deep Mask Stereo Image Compression** Deng, Xin and Deng, Yufan and Yang, Ren and Yang, Wenzhe and Timofte, Radu and Xu, Mai [paper](https://scholar.google.com/scholar_url?url=https://ieeexplore.ieee.org/iel7/76/4358651/10061473.pdf%3Fcasa_token%3DyxaR8FAUmccAAAAA:NZVDcw8yyjkyl1jR53FSSfUBKSAUxSgFwjNl6n3E3gjtklYQ7e6KLBD0sY9rtdPDj3cMxRyjb3w&hl=zh-CN&sa=T&oi=ucasa&ct=ucasa&ei=C7HBZbBn6NLL1g_hqbWgCw&scisig=AFWwaeauyyBtBEhlO7xzS3SgL_l_)
-
 - (TCSVT 2023) **Extremely Low Bit-rate Image Compression via Invertible Image Generation** Gao, Fangyuan and Deng, Xin and Jing, Junpeng and Zou, Xin and Xu, Mai [paper](https://ieeexplore.ieee.org/document/10256132)
 - (TCSVT 2023) **Task-Switchable Pre-Processor for Image Compression for Multiple Machine Vision Tasks** Yang, Mingyi and Yang, Fei and Murn, Luka and Blanch, Marc Gorriz and Sock, Juil and Wan, Shuai and Yang, Fuzheng and Herranz, Luis [paper](https://ieeexplore.ieee.org/document/10256132)
 - (TCSVT 2023) **Rethinking semantic image compression: Scalable representation with cross-modality transfer** Zhang, Pingping and Wang, Shiqi and Wang, Meng and Li, Jiguo and Wang, Xu and Kwong, Sam [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10032603&casa_token=jUWiQNkyzn4AAAAA:sB3n5iqEj4xbTgiOrrXxsI5lbXizq0V9wxvkaZ71ik2nPah0yHZ8WzHwbkrp-URvTMuHukK3&tag=1)
@@ -129,6 +141,7 @@
 - (JVCIR 2023) **Corner-to-Center long-range context model for efficient learned image compression** LSui, Yang and Ding, Ding and Pan, Xiang and Xu, Xiaozhong and Liu, Shan and Yuan, Bo and Chen, Zhenzhong[paper](https://arxiv.org/pdf/2311.18103.pdf)
 - (VICP 2023) **A Near Lossless Learned Image Coding Network Quantization Approach for Cross-Platform Inference** Hang, Xinyu and Jia, Chuanmin and Ma, Siwei and Gao, Wen [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402704&casa_token=SpFz9g7TeT8AAAAA:GNVUj1Qv03LvWGp3bF9iyCSr_-ZLx6-HNZM4vxYXFqs_yTFitBKet3htVPIc1LR4uKboCvnL)
 
+- (TMI 2023) **A Near Lossless Learned Image Coding Network Quantization Approach for Cross-Platform Inference** Hang, Xinyu and Jia, Chuanmin and Ma, Siwei and Gao, Wen [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10402704&casa_token=SpFz9g7TeT8AAAAA:GNVUj1Qv03LvWGp3bF9iyCSr_-ZLx6-HNZM4vxYXFqs_yTFitBKet3htVPIc1LR4uKboCvnL)
 
 
 ## <span id="2022">✔2022 </span> [       «🎯Back To Top»       ](#)
