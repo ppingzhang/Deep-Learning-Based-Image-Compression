@@ -36,7 +36,9 @@
 
 - (WCACV 2024) **Neural Image Compression Using Masked Sparse Visual Representation** Jiang, Wei and Wang, Wei and Chen, Yue [paper](https://arxiv.org/pdf/2309.11661.pdf)
 
-
+- (Arxiv 2024) **Region-Adaptive Transform with Segmentation Prior for Image Compression** Liu, Yuxi and Yang, Wenhan and Bai, Huihui and Wei, Yunchao and Zhao, Yao[paper](https://arxiv.org/pdf/2403.00628.pdf)
+- (Arxiv 2024) **Enhancing the Rate-Distortion-Perception Flexibility of Learned Image Codecs with Conditional Diffusion Decoders** Mari, Daniele and Milani, Simone[paper](https://arxiv.org/pdf/2403.02887v1.pdf)
+- (Arxiv 2024) **Analysis of Neural Video Compression Networks for 360-Degree Video Coding** Regensky, Andy and Brand, Fabian and Kaup, Andr{\'e}[paper](https://arxiv.org/pdf/2402.10257.pdf)
 - (Arxiv 2024) **LEARNED IMAGE COMPRESSION WITH TEXT QUALITY ENHANCEMENT** Lai, Chih-Yu and Tran, Dung and Koishida, Kazuhito[paper](https://arxiv.org/pdf/2402.08643.pdf)
 - (Arxiv 2024) **Variable-Rate Learned Image Compression with Multi-Objective Optimization and Quantization-Reconstruction Offsets** Kamisli, Fatih and Racape, Fabien and Choi, Hyomin[paper](https://arxiv.org/pdf/2402.18930v1.pdf)
 - (Arxiv 2024) **End-to-End Optimized Image Compression with the Frequency-Oriented Transform** Zhang, Yuefeng and Lin, Kai [paper](https://arxiv.org/pdf/2401.08194.pdf)
