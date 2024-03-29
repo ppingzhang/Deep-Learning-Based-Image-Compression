@@ -2,7 +2,7 @@
 # <p align=center> Awesome 🎉Deep Learning Based Image Compression </p>
 <!--# <p align=center>`# Awesome 🎉Deep Learning Based Image Compression🎉`</p>-->
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ppingzhang/Awesome-Deep-Learning-Based-Video-Compression) ![GitHub stars](https://img.shields.io/github/stars/ppingzhang/Awesome-Deep-Learning-Based-Video-Compression.svg?color=red) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ppingzhang/Awesome-Deep-Learning-Based-Image-Compression) ![GitHub stars](https://img.shields.io/github/stars/ppingzhang/Awesome-Deep-Learning-Based-Image-Compression.svg?color=red) 
 
 # Content
 - [2024](#2024)
@@ -18,13 +18,19 @@
 
 ## <span id="2024">✔2024 </span> [       «🎯Back To Top»       ](#)
 
+- (AAAI 2024) **Make Lossy Compression Meaningful for Low-Light Images** Cai, Shilv and Chen, Liqun and Zhong, Sheng and Yan, Luxin and Zhou, Jiahuan and Zou, Xu [paper](https://ojs.aaai.org/index.php/AAAI/article/download/28664/29289)
+- (AAAI 2024) **End-to-End RGB-D Image Compression via Exploiting Channel-Modality Redundancy** Zheng, Huiming and Gao, Wei [paper](https://ojs.aaai.org/index.php/AAAI/article/download/28588/29143)
+- (AAAI 2024) **End-to-End RGB-D Image Compression via Exploiting Channel-Modality Redundancy** Zheng, Huiming and Gao, Wei [paper](https://ojs.aaai.org/index.php/AAAI/article/download/28588/29143)
+
 - (CVPR 2024) **Towards Backward-Compatible Continual Learning of Image Compression** Duan, Zhihao and Lu, Ming and Yang, Justin and He, Jiangpeng and Ma, Zhan and Zhu, Fengqing [paper](https://arxiv.org/pdf/2402.18862v1.pdf)
 
 - (NeurIPS 2024) **Compression with bayesian implicit neural representations** Guo, Zongyu and Flamich, Gergely and He, Jiajun and Chen, Zhibo and Hern{\'a}ndez-Lobato, Jos{\'e} Miguel [paper](https://arxiv.org/pdf/2305.19185.pdf)
 
 - (TMM 2024) **Neural Network Coding of Difference Updates for Efficient Distributed Learning Communication** Sheng, Xihua and Li, Li and Liu, Dong and Li, Houqiang [paper](https://arxiv.org/pdf/2401.15864.pdf)
+- (TIP 2024) **Bilateral Context Modeling for Residual Coding in Lossless 3D Medical Image Compression** Liu, Xiangrui and Wang, Meng and Wang, Shiqi and Kwong, Sam [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10478821)
 
 
+- (TCSVT 2024) **Multirate Progressive Entropy Model for Learned Image Compression** Li, Chao and Yin, Shanzhi and Jia, Chuanmin and Meng, Fanyang and Tian, Yonghong and Liang, Yongsheng [paper](https://ieeexplore.ieee.org/document/10471618)
 - (TCSVT 2024) **EUICN: An Efficient Underwater Image Compression Network** Li, Mengyao and Shen, Liquan and Hua, Xia and Tian, Zhaoyi [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445326)
 - (TCSVT 2024) **Rate-Distortion Optimized Cross Modal Compression with Multiple Domains** Gao, Junlong and Jia, Chuanmin and Huang, Zhimeng and Wang, Shanshe and Ma, Siwei and Gao, Wen [paper](https://ieeexplore.ieee.org/abstract/document/10430161)
 
@@ -36,9 +42,35 @@
 
 - (WCACV 2024) **Neural Image Compression Using Masked Sparse Visual Representation** Jiang, Wei and Wang, Wei and Chen, Yue [paper](https://arxiv.org/pdf/2309.11661.pdf)
 
+
+- (PCS 2024) **CoCliCo: Extremely low bitrate image compression based on CLIP semantic and tiny color map** Bachard, Tom and Bordin, Tom and Maugey, Thomas [paper](https://inria.hal.science/hal-04478601/file/PCS_2024-2-1.pdf)
+- (IEVC 2024) **The Effect of Edge Information in Stable Diffusion Applied to Image Coding** Watanabe, Hiroshi and Chujoh, Takeshi and Fan, Zheming and Jin, Luoxu and Yasugi, Yukinobu and Ikai, Tomohiro and Hayami, Taiga and Hong, Sujun [paper](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEVC_LBP-15.pdf)
+
+
+- (Arxiv 2024) **Overfitted image coding at reduced complexity**Blard, Th{\'e}ophile and Ladune, Th{\'e}o and Philippe, Pierrick and Clare, Gordon and Jiang, Xiaoran and D{\'e}forges, Olivier[paper](https://arxiv.org/pdf/2403.11651v1.pdf)
+- (Arxiv 2024) **Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity** Lee, Hagyeong and Kim, Minkyu and Kim, Jun-Hyuk and Kim, Seungeon and Oh, Dokwan and Lee, Jaeho[paper](https://arxiv.org/pdf/2403.02944.pdf)
+- (Arxiv 2024) **Transformer-based Learned Image Compression for Joint Decoding and Denoising** Chen, Yi-Hsin and Ho, Kuan-Wei and Tsai, Shiau-Rung and Lin, Guan-Hsun and Gnutti, Alessandro and Peng, Wen-Hsiao and Leonardi, Riccardo[paper](https://arxiv.org/pdf/2402.12888v1.pdf)
+- (Arxiv 2024) **Channel-wise Feature Decorrelation for Enhanced Learned Image Compression** Pakdaman, Farhad and Gabbouj, Moncef[paper](https://arxiv.org/ftp/arxiv/papers/2403/2403.10936.pdf)
+- (Arxiv 2024) **Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization** Luo, Jixiang and Wang, Yan and Qin, Hongwei[paper](https://arxiv.org/pdf/2403.13030.pdf)
+- (Arxiv 2024) **S2LIC: Learned Image Compression with the SwinV2 Block, Adaptive Channel-wise and Global-inter Attention Context** Wang, Yongqiang and Liang, Feng and Liang, Jie and Fu, Haisheng[paper](https://arxiv.org/pdf/2403.14471.pdf)
+- (Arxiv 2024) **Content-aware Masked Image Modeling Transformer for Stereo Image Compression** Zhang, Xinjie and Gao, Shenyuan and Liu, Zhening and Ge, Xingtong and He, Dailan and Xu, Tongda and Wang, Yan and Zhang, Jun[paper](https://arxiv.org/pdf/2403.08505v1.pdf)
+- (Arxiv 2024) **Enhancing Adversarial Training with Prior Knowledge Distillation for Robust Image Compression** Zhi, Cao and Youneng, Bao and Fanyang, Meng and Chao, Li and Wen, Tan and Genhong, Wang and Yongsheng, Liang[paper](https://arxiv.org/pdf/2403.06700v1.pdf)
+- (Arxiv 2024) **Probing Image Compression For Class-Incremental Learning** Yang, Justin and Duan, Zhihao and Peng, Andrew and Huang, Yuning and He, Jiangpeng and Zhu, Fengqing[paper](https://arxiv.org/pdf/2403.06288.pdf)
+- (Arxiv 2024) **Variable-Rate Learned Image Compression with Multi-Objective Optimization and Quantization-Reconstruction Offsets** Kamisli, Fatih and Racape, Fabien and Choi, Hyomin [paper](https://arxiv.org/pdf/2402.18930v1.pdf)
+- (Arxiv 2024) **Channel-wise Feature Decorrelation for Enhanced Learned Image Compression** Pakdaman, Farhad and Gabbouj, Moncef [paper](https://arxiv.org/ftp/arxiv/papers/2403/2403.10936.pdf)
+- (Arxiv 2024) **Exploration of Learned Lifting-Based Transform Structures for Fully Scalable and Accessible Wavelet-Like Image Compression** Li, Xinyue and Naman, Aous and Taubman, David [paper](https://arxiv.org/pdf/2402.18761v1.pdf)
+- (Arxiv 2024) **Powerful Lossy Compression for Noisy Images** Cai, Shilv and Liang, Xiaoguo and Cao, Shuning and Yan, Luxin and Zhong, Sheng and Chen, Liqun and Zou, Xu [paper](https://arxiv.org/pdf/2403.14135v1.pdf)
+- (Arxiv 2024) **Enhancing Adversarial Training with Prior Knowledge Distillation for Robust Image Compression** Zhi, Cao and Youneng, Bao and Fanyang, Meng and Chao, Li and Wen, Tan and Genhong, Wang and Yongsheng, Liang [paper](https://arxiv.org/pdf/2403.06700v1.pdf)
+
+- (Arxiv 2024) **Image Coding for Machines with Edge Information Learning Using Segment Anything** Shindo, Takahiro and Yamada, Kein and Watanabe, Taiju and Watanabe, Hiroshi [paper](https://arxiv.org/pdf/2403.04173v1.pdf)
+- (Arxiv 2024) **Resilience of Entropy Model in Distributed Neural Networks** Zhang, Milin and Abdi, Mohammad and Rifat, Shahriar and Restuccia, Francesco[paper](https://arxiv.org/pdf/2403.00942v1.pdf)
+- (Arxiv 2024) **Unifying Generation and Compression: Ultra-low bitrate Image Coding Via Multi-stage Transformer** Xue, Naifu and Mao, Qi and Wang, Zijian and Zhang, Yuan and Ma, Siwei[paper](https://arxiv.org/pdf/2403.03736.pdf)
+- (Arxiv 2024) **Content-aware Masked Image Modeling Transformer for Stereo Image Compression** Zhang, Xinjie and Gao, Shenyuan and Liu, Zhening and Ge, Xingtong and He, Dailan and Xu, Tongda and Wang, Yan and Zhang, Jun[paper](https://arxiv.org/pdf/2403.08505v1.pdf)
+- (Arxiv 2024) **GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting** Zhang, Xinjie and Ge, Xingtong and Xu, Tongda and He, Dailan and Wang, Yan and Qin, Hongwei and Lu, Guo and Geng, Jing and Zhang, Jun[paper](https://arxiv.org/pdf/2403.08551v1.pdf)
+- (Arxiv 2024) **Wavelet-Like Transform-Based Technology in Response to the Call for Proposals on Neural Network-Based Image Coding** Dong, Cunhui and Ma, Haichuan and Zhang, Haotian and Gao, Changsheng and Li, Li and Liu, Dong[paper](https://arxiv.org/pdf/2403.05937v1.pdf)
 - (Arxiv 2024) **Region-Adaptive Transform with Segmentation Prior for Image Compression** Liu, Yuxi and Yang, Wenhan and Bai, Huihui and Wei, Yunchao and Zhao, Yao[paper](https://arxiv.org/pdf/2403.00628.pdf)
 - (Arxiv 2024) **Enhancing the Rate-Distortion-Perception Flexibility of Learned Image Codecs with Conditional Diffusion Decoders** Mari, Daniele and Milani, Simone[paper](https://arxiv.org/pdf/2403.02887v1.pdf)
-- (Arxiv 2024) **Analysis of Neural Video Compression Networks for 360-Degree Video Coding** Regensky, Andy and Brand, Fabian and Kaup, Andr{\'e}[paper](https://arxiv.org/pdf/2402.10257.pdf)
+
 - (Arxiv 2024) **LEARNED IMAGE COMPRESSION WITH TEXT QUALITY ENHANCEMENT** Lai, Chih-Yu and Tran, Dung and Koishida, Kazuhito[paper](https://arxiv.org/pdf/2402.08643.pdf)
 - (Arxiv 2024) **Variable-Rate Learned Image Compression with Multi-Objective Optimization and Quantization-Reconstruction Offsets** Kamisli, Fatih and Racape, Fabien and Choi, Hyomin[paper](https://arxiv.org/pdf/2402.18930v1.pdf)
 - (Arxiv 2024) **End-to-End Optimized Image Compression with the Frequency-Oriented Transform** Zhang, Yuefeng and Lin, Kai [paper](https://arxiv.org/pdf/2401.08194.pdf)
@@ -66,7 +98,7 @@
 - (NeurIPS 2023) **Towards efficient image compression without autoregressive models** Ali, Muhammad Salman and Kim, Yeongwoong and Qamar, Maryam and Lim, Sung-Chang and Kim, Donghyun and Zhang, Chaoning and Bae, Sung-Ho and Kim, Hui Yong [paper](https://openreview.net/pdf?id=1ihGy9vAIg)
 - (NeurIPS 2023) **LUT-LIC: Look-Up Table-Assisted Learned Image Compression** Yu, SeungEun and Lee, Jong-Seok[paper](https://link.springer.com/chapter/10.1007/978-981-99-8148-9_34)
 
-
+- (ACMMM 2023) **Toward Scalable Image Feature Compression: A Content-Adaptive and Diffusion-Based Approach** Guo, Sha and Chen, Zhuo and Zhao, Yang and Zhang, Ning and Li, Xiaotong and Duan, Lingyu [paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611851?casa_token=mNmCMwSt2NcAAAAA:pYJtS3-8nkQdv-d0hp5N3OptJqtnjFcfBNOohVR0SqCbdP9mF4tFuAZEN5_WiTkVaxttfYUdfyqJHw)
 - (ACMMM 2023) **Nif: A fast implicit image compression with bottleneck layers and modulated sinusoidal activations** Catania, Lorenzo and Allegra, Dario [paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3613834)
 - (ACMMM 2023) **Lambda-Domain Rate Control for Neural Image Compression** Xue, Naifu and Zhang, Yuan [paper](https://dl.acm.org/doi/pdf/10.1145/3595916.3626372?casa_token=ZQoUWGi2J6UAAAAA:3NWoCPBC-hhmWmMgcu3uPf_UFg0eSN3fLoeBi_8S0GKRJaW78mnXjkxBesKBwfe30nzHI0PEXGfAVQ)
 - (ACMMM 2023) **MLIC: Multi-Reference Entropy Model for Learned Image Compression** Jiang, Wei and Yang, Jiayu and Zhai, Yongqi and Ning, Peirong and Gao, Feng and Wang, Ronggang [paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611694)
@@ -120,8 +152,9 @@
 
 - (ICCV 2023) **COMPASS: High-Efficiency Deep Image Compression with Arbitrary-scale Spatial Scalability** Park, Jongmin and Lee, Jooyoung and Kim, Munchurl [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_COMPASS_High-Efficiency_Deep_Image_Compression_with_Arbitrary-scale_Spatial_Scalability_ICCV_2023_paper.pdf)
 - (ICCV 2023) **AdaNIC: Towards Practical Neural Image Compression via Dynamic Transform Routing** Tao, Lvfang and Gao, Wei and Li, Ge and Zhang, Chenhao [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tao_AdaNIC_Towards_Practical_Neural_Image_Compression_via_Dynamic_Transform_Routing_ICCV_2023_paper.pdf)
+- (WCACV 2023) **Controlling Rate, Distortion, and Realism: Towards a Single Comprehensive Neural Image Compression Model** Iwai, Shoma and Miyazaki, Tomo and Omachi, Shinichiro [paper](https://openaccess.thecvf.com/content/WACV2024/papers/Iwai_Controlling_Rate_Distortion_and_Realism_Towards_a_Single_Comprehensive_Neural_WACV_2024_paper.pdf)
 
-- (Neurocomputing 2023) **Multiple Hypotheses Based Motion Compensation for Learned Video Compression** Lin, Rongqun and Wang, Meng and Zhang, Pingping and Wang, Shiqi and Kwong, Sam [paper](https://www.sciencedirect.com/science/article/pii/S0925231223005192?casa_token=4V7fGASs-pYAAAAA:8Lk-HCwftOicqBzj2F6i3YVJCOd9MUnokVmDANZRU1D7mwIPauX_pAAcCaMqiVWKCNzkwFSp)
+
 - (Arxiv 2023) **EGIC: Enhanced Low-Bit-Rate Generative Image Compression Guided by Semantic Segmentation** K{\"o}rber, Nikolai and Kromer, Eduard and Siebert, Andreas and Hauke, Sascha and Mueller-Gritschneder, Daniel [paper](https://arxiv.org/pdf/2309.03244.pdf)
 - (Arxiv 2023) **A Training-Free Defense Framework for Robust Learned Image Compression** Song, Myungseo and Choi, Jinyoung and Han, Bohyung [paper](https://arxiv.org/pdf/2401.11902.pdf)
 - (Arxiv 2023) **FFCA-Net: Stereo Image Compression via Fast Cascade Alignment of Side Information**Xia, Yichong and Huang, Yujun and Chen, Bin and Wang, Haoqian and Wang, Yaowei[paper](https://arxiv.org/pdf/2312.16963.pdf)
@@ -137,7 +170,7 @@
 
 - (Arxiv 2023) **Perceptual Image Compression with Cooperative Cross-Modal Side Information** Qin, Shiyu and Chen, Bin and Huang, Yujun and An, Baoyi and Dai, Tao and Via, Shu-Tao[paper](https://arxiv.org/pdf/2311.13847.pdf)
 - (Arxiv 2023) **Progressive Learning with Visual Prompt Tuning for Variable-Rate Image Compression** Qin, Shiyu and Zhou, Yimin and Wang, Jinpeng and Chen, Bin and An, Baoyi and Dai, Tao and Xia, Shu-Tao[paper](https://arxiv.org/pdf/2311.17350.pdf)
-- (Arxiv 2023) **Implicit-explicit Integrated Representations for Multi-view Video Compression** Zhu, Chen and Lu, Guo and He, Bing and Xie, Rong and Song, Li[paper](https://arxiv.org/pdf/2311.13846.pdf)
+
 - (Arxiv 2023) **Exploring the Rate-Distortion-Complexity Optimization in Neural Image Compression** Gao, Yixin and Feng, Runsen and Guo, Zongyu and Chen, Zhibo[paper](https://arxiv.org/pdf/2305.07678.pdf)
 
 - (JVCIR 2023) **Corner-to-Center long-range context model for efficient learned image compression** LSui, Yang and Ding, Ding and Pan, Xiang and Xu, Xiaozhong and Liu, Shan and Yuan, Bo and Chen, Zhenzhong[paper](https://arxiv.org/pdf/2311.18103.pdf)
@@ -246,7 +279,7 @@ Learning with Denoising** Cheng, Ka Leong and Xie, Yueqi and Chen, Qifeng [paper
 - (CVPR 2022) **Split Hierarchical Variational Compression** Ryder, Tom and Zhang, Chen and Kang, Ning and Zhang, Shifeng. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ryder_Split_Hierarchical_Variational_Compression_CVPR_2022_paper.pdf)]
 - (CVPR 2022) **SASIC: Stereo Image Compression With Latent Shifts and Stereo Attention** W{\"o}dlinger, Matthias and Kotera, Jan and Xu, Jan and Sablatnig, Robert. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wodlinger_SASIC_Stereo_Image_Compression_With_Latent_Shifts_and_Stereo_Attention_CVPR_2022_paper.pdf)]
 - (CVPR 2022) **Deep Stereo Image Compression via Bi-directional Coding**, Lei, Jianjun and Liu, Xiangrui and Peng, Bo and Jin, Dengchao and Li, Wanqing and Gu, Jingxiao [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lei_Deep_Stereo_Image_Compression_via_Bi-Directional_Coding_CVPR_2022_paper.pdf)]
-- (CVPR 2022) **LSVC: A Learning-based Stereo Video Compression Framework**, Chen, Zhenghao and Lu, Guo and Hu, Zhihao and Liu, Shan and Jiang, Wei and Xu, Dong [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_LSVC_A_Learning-Based_Stereo_Video_Compression_Framework_CVPR_2022_paper.pdf) 
+
 - (AAAI 2022) **OoDHDR-Codec: Out-of-Distribution Generalization for HDR Image Compression**, Cao, Linfeng and Jiang, Aofan and Li, Wei and Wu, Huaying and Ye, Nanyang [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-8610.CaoL.pdf) (HDR)
   
 - (arXiv preprint 2022) **Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression**, Zhu, Xiaosu and Song, Jingkuan and Gao, Lianli and Zheng, Feng and Shen, Heng Tao [[paper]](https://arxiv.org/pdf/2203.10897.pdf)[[code]](https://github.com/xiaosu-zhu/McQuic) (E)
@@ -354,7 +387,10 @@ Learning with Denoising** Cheng, Ka Leong and Xie, Yueqi and Chen, Qifeng [paper
 
 ## <span id="2019">✔2019 </span> [       «🎯Back To Top»       ](#)
 
-  
+- (PCS 19) **A novel deep progressive image compression framework**, Cai, Chunlei and Chen, Li and Zhang, Xiaoyun and Lu, Guo and Gao, Zhiyong. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8954500) 
+
+- (CVPR 19) **Learning image and video compression through spatial-temporal energy compaction**, Cheng, Zhengxue and Sun, Heming and Takeuchi, Masaru and Katto, Jiro. [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_Learning_Image_and_Video_Compression_Through_Spatial-Temporal_Energy_Compaction_CVPR_2019_paper.pdf) 
+
 
 ---
 
