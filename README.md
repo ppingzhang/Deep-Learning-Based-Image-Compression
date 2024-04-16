@@ -18,6 +18,10 @@
 
 ## <span id="2024">✔2024 </span> [       «🎯Back To Top»       ](#)
 
+
+- (ICASSP 2024) **RATE-QUALITY BASED RATE CONTROL MODEL FOR NEURAL VIDEO COMPRESSION** Liao, Shuhong and Jia, Chuanmin and Fan, Hongfei and Yan, Jingwen and Ma, Siwei [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447777)
+- (ICASSP 2024) **Enhancing Adversarial Training with Prior Knowledge Distillation for Robust Image Compression** Zhi, Cao and Youneng, Bao and Fanyang, Meng and Chao, Li and Wen, Tan and Genhong, Wang and Yongsheng, Liang[paper](https://arxiv.org/pdf/2403.06700v1.pdf)
+
 - (AAAI 2024) **Make Lossy Compression Meaningful for Low-Light Images** Cai, Shilv and Chen, Liqun and Zhong, Sheng and Yan, Luxin and Zhou, Jiahuan and Zou, Xu [paper](https://ojs.aaai.org/index.php/AAAI/article/download/28664/29289)
 - (AAAI 2024) **End-to-End RGB-D Image Compression via Exploiting Channel-Modality Redundancy** Zheng, Huiming and Gao, Wei [paper](https://ojs.aaai.org/index.php/AAAI/article/download/28588/29143)
 - (AAAI 2024) **End-to-End RGB-D Image Compression via Exploiting Channel-Modality Redundancy** Zheng, Huiming and Gao, Wei [paper](https://ojs.aaai.org/index.php/AAAI/article/download/28588/29143)
@@ -26,8 +30,10 @@
 
 - (NeurIPS 2024) **Compression with bayesian implicit neural representations** Guo, Zongyu and Flamich, Gergely and He, Jiajun and Chen, Zhibo and Hern{\'a}ndez-Lobato, Jos{\'e} Miguel [paper](https://arxiv.org/pdf/2305.19185.pdf)
 
-- (TMM 2024) **Neural Network Coding of Difference Updates for Efficient Distributed Learning Communication** Sheng, Xihua and Li, Li and Liu, Dong and Li, Houqiang [paper](https://arxiv.org/pdf/2401.15864.pdf)
 - (TIP 2024) **Bilateral Context Modeling for Residual Coding in Lossless 3D Medical Image Compression** Liu, Xiangrui and Wang, Meng and Wang, Shiqi and Kwong, Sam [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10478821)
+
+
+- (TMM 2024) **Neural Network Coding of Difference Updates for Efficient Distributed Learning Communication** Sheng, Xihua and Li, Li and Liu, Dong and Li, Houqiang [paper](https://arxiv.org/pdf/2401.15864.pdf)
 
 
 - (TCSVT 2024) **Multirate Progressive Entropy Model for Learned Image Compression** Li, Chao and Yin, Shanzhi and Jia, Chuanmin and Meng, Fanyang and Tian, Yonghong and Liang, Yongsheng [paper](https://ieeexplore.ieee.org/document/10471618)
@@ -46,7 +52,14 @@
 - (PCS 2024) **CoCliCo: Extremely low bitrate image compression based on CLIP semantic and tiny color map** Bachard, Tom and Bordin, Tom and Maugey, Thomas [paper](https://inria.hal.science/hal-04478601/file/PCS_2024-2-1.pdf)
 - (IEVC 2024) **The Effect of Edge Information in Stable Diffusion Applied to Image Coding** Watanabe, Hiroshi and Chujoh, Takeshi and Fan, Zheming and Jin, Luoxu and Yasugi, Yukinobu and Ikai, Tomohiro and Hayami, Taiga and Hong, Sujun [paper](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEVC_LBP-15.pdf)
 
+- (Arxiv 2024) **Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization**Luo, Jixiang and Wang, Yan and Qin, Hongwei[paper](https://arxiv.org/pdf/2403.13030.pdf)
 
+- (Arxiv 2024) **Theoretical Bound-Guided Hierarchical VAE for Neural Image Codecs**Zhang, Yichi and Duan, Zhihao and Huang, Yuning and Zhu, Fengqing[paper](https://arxiv.org/pdf/2403.18535v1.pdf)
+
+- (Arxiv 2024) **Unifying Generation and Compression: Ultra-low bitrate Image Coding Via Multi-stage Transformer**Xue, Naifu and Mao, Qi and Wang, Zijian and Zhang, Yuan and Ma, Siwei[paper](https://arxiv.org/pdf/2403.03736.pdf)
+- (Arxiv 2024) **Enhancing the Rate-Distortion-Perception Flexibility of Learned Image Codecs with Conditional Diffusion Decoders**Mari, Daniele and Milani, Simone[paper](https://arxiv.org/pdf/2403.02887v1.pdf)
+
+- (Arxiv 2024) **Channel-wise Feature Decorrelation for Enhanced Learned Image Compression**Pakdaman, Farhad and Gabbouj, Moncef[paper](https://arxiv.org/pdf/2403.10936.pdf)
 - (Arxiv 2024) **Overfitted image coding at reduced complexity**Blard, Th{\'e}ophile and Ladune, Th{\'e}o and Philippe, Pierrick and Clare, Gordon and Jiang, Xiaoran and D{\'e}forges, Olivier[paper](https://arxiv.org/pdf/2403.11651v1.pdf)
 - (Arxiv 2024) **Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity** Lee, Hagyeong and Kim, Minkyu and Kim, Jun-Hyuk and Kim, Seungeon and Oh, Dokwan and Lee, Jaeho[paper](https://arxiv.org/pdf/2403.02944.pdf)
 - (Arxiv 2024) **Transformer-based Learned Image Compression for Joint Decoding and Denoising** Chen, Yi-Hsin and Ho, Kuan-Wei and Tsai, Shiau-Rung and Lin, Guan-Hsun and Gnutti, Alessandro and Peng, Wen-Hsiao and Leonardi, Riccardo[paper](https://arxiv.org/pdf/2402.12888v1.pdf)
@@ -54,7 +67,7 @@
 - (Arxiv 2024) **Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization** Luo, Jixiang and Wang, Yan and Qin, Hongwei[paper](https://arxiv.org/pdf/2403.13030.pdf)
 - (Arxiv 2024) **S2LIC: Learned Image Compression with the SwinV2 Block, Adaptive Channel-wise and Global-inter Attention Context** Wang, Yongqiang and Liang, Feng and Liang, Jie and Fu, Haisheng[paper](https://arxiv.org/pdf/2403.14471.pdf)
 - (Arxiv 2024) **Content-aware Masked Image Modeling Transformer for Stereo Image Compression** Zhang, Xinjie and Gao, Shenyuan and Liu, Zhening and Ge, Xingtong and He, Dailan and Xu, Tongda and Wang, Yan and Zhang, Jun[paper](https://arxiv.org/pdf/2403.08505v1.pdf)
-- (Arxiv 2024) **Enhancing Adversarial Training with Prior Knowledge Distillation for Robust Image Compression** Zhi, Cao and Youneng, Bao and Fanyang, Meng and Chao, Li and Wen, Tan and Genhong, Wang and Yongsheng, Liang[paper](https://arxiv.org/pdf/2403.06700v1.pdf)
+
 - (Arxiv 2024) **Probing Image Compression For Class-Incremental Learning** Yang, Justin and Duan, Zhihao and Peng, Andrew and Huang, Yuning and He, Jiangpeng and Zhu, Fengqing[paper](https://arxiv.org/pdf/2403.06288.pdf)
 - (Arxiv 2024) **Variable-Rate Learned Image Compression with Multi-Objective Optimization and Quantization-Reconstruction Offsets** Kamisli, Fatih and Racape, Fabien and Choi, Hyomin [paper](https://arxiv.org/pdf/2402.18930v1.pdf)
 - (Arxiv 2024) **Channel-wise Feature Decorrelation for Enhanced Learned Image Compression** Pakdaman, Farhad and Gabbouj, Moncef [paper](https://arxiv.org/ftp/arxiv/papers/2403/2403.10936.pdf)
