@@ -19,6 +19,8 @@
 ## <span id="2024">✔2024 </span> [       «🎯Back To Top»       ](#)
 
 
+- (ICASSP 2024) **Leveraging Redundancy in Feature for Efficient Learned Image CompressionN** Qin, Peng and Bao, Youneng and Meng, Fanyang and Tan, Wen and Li, Chao and Wang, Genhong and Liang, Yongsheng [paper](https://ieeexplore.ieee.org/abstract/document/10447424)
+
 - (ICASSP 2024) **RATE-QUALITY BASED RATE CONTROL MODEL FOR NEURAL VIDEO COMPRESSION** Liao, Shuhong and Jia, Chuanmin and Fan, Hongfei and Yan, Jingwen and Ma, Siwei [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447777)
 - (ICASSP 2024) **Enhancing Adversarial Training with Prior Knowledge Distillation for Robust Image Compression** Zhi, Cao and Youneng, Bao and Fanyang, Meng and Chao, Li and Wen, Tan and Genhong, Wang and Yongsheng, Liang[paper](https://arxiv.org/pdf/2403.06700v1.pdf)
 
@@ -51,6 +53,31 @@
 
 - (PCS 2024) **CoCliCo: Extremely low bitrate image compression based on CLIP semantic and tiny color map** Bachard, Tom and Bordin, Tom and Maugey, Thomas [paper](https://inria.hal.science/hal-04478601/file/PCS_2024-2-1.pdf)
 - (IEVC 2024) **The Effect of Edge Information in Stable Diffusion Applied to Image Coding** Watanabe, Hiroshi and Chujoh, Takeshi and Fan, Zheming and Jin, Luoxu and Yasugi, Yukinobu and Ikai, Tomohiro and Hayami, Taiga and Hong, Sujun [paper](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEVC_LBP-15.pdf)
+
+- (SPL 2024) **Enhancing High-Resolution Image Compression Through Local-Global Joint Attention Mechanism**Jiang, Zeyu and Liu, Xiaohong and Li, Aini and Wang, Guangyu[paper](https://ieeexplore.ieee.org/abstract/document/10487886)
+
+
+- (SPL 2024) **Learning-Based Image Compression With Parameter-Adaptive Rate-Constrained Loss**Guerin, Nilson D and da Silva, Renam Castro and Macchiavello, Bruno[paper](https://ieeexplore.ieee.org/abstract/document/10487041?casa_token=knUB41_TmBsAAAAA:a-OvI58YlhHCqICs5ondcAnowi-IGX2nx0TgWqjjp_VfILwGajk6aEbDfqpUAqvF6--XxzsqGQ)
+
+- (Arxiv 2024) **S2LIC: Learned Image Compression with the SwinV2 Block, Adaptive Channel-wise and Global-inter Attention Context**Wang, Yongqiang and Liang, Feng and Liang, Jie and Fu, Haisheng[paper](https://arxiv.org/pdf/2403.14471.pdf)
+
+- (Arxiv 2024) **Lossy Image Compression with Foundation Diffusion Models**WRelic, Lucas and Azevedo, Roberto and Gross, Markus and Schroers, Christopher[paper](https://arxiv.org/pdf/2404.08580.pdf)
+
+- (ICASSP 2024) **A Tri-Dynamic Preprocessing Framework for UGC Video Compression**Zhao, Fei and Guo, Mengxi and Zhao, Shijie and Li, Junlin and Zhang, Li and Xie, Xiaodong[paper](https://ieeexplore.ieee.org/document/10445837)
+
+- (Arxiv 2024) **Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder**Ma, Yiyang and Yang, Wenhan and Liu, Jiaying[paper](https://arxiv.org/html/2404.04916v1)
+- (Arxiv 2024) **Fine color guidance in diffusion models and its application to image compression at extremely low bitrates**Bordin, Tom and Maugey, Thomas[paper](https://arxiv.org/pdf/2404.06865.pdf)
+
+
+- (Arxiv 2024) **Human-Machine Collaborative Image Compression Method Based on Implicit Neural Representations**Li, Huanyang and Zhang, Xinfeng[paper](https://arxiv.org/pdf/2112.04267.pdf)
+
+- (Arxiv 2024) **CGenerative Refinement for Low Bitrate Image Coding Using Vector Quantized Residual**Kong, Yuzhuo and Lu, Ming and Ma, Zhan[paper](https://ieeexplore.ieee.org/document/10493033?denied=)
+
+
+- (Arxiv 2024) **Image and Video Compression using Generative Sparse Representation with Fidelity Controls**Jiang, Wei and Wang, Wei[paper](https://arxiv.org/pdf/2404.06076.pdf)
+
+
+- (Arxiv 2024) **Content-aware Masked Image Modeling Transformer for Stereo Image Compression**Zhang, Xinjie and Gao, Shenyuan and Liu, Zhening and Ge, Xingtong and He, Dailan and Xu, Tongda and Wang, Yan and Zhang, Jun[paper](https://arxiv.org/pdf/2403.08505v1.pdf)
 
 - (Arxiv 2024) **Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization**Luo, Jixiang and Wang, Yan and Qin, Hongwei[paper](https://arxiv.org/pdf/2403.13030.pdf)
 
