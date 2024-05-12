@@ -18,6 +18,7 @@
 
 ## <span id="2024">✔2024 </span> [       «🎯Back To Top»       ](#)
 
+- (TPAMI 2024) **I2C: Invertible Continuous Codec for High-Fidelity Variable-Rate Image Compression** Cai, Shilv and Chen, Liqun and Zhang, Zhijun and Zhao, Xiangyun and Zhou, Jiahuan and Peng, Yuxin and Yan, Luxin and Zhong, Sheng and Zou, Xu [paper](https://ieeexplore.ieee.org/abstract/document/10411123)
 
 - (ICASSP 2024) **Leveraging Redundancy in Feature for Efficient Learned Image CompressionN** Qin, Peng and Bao, Youneng and Meng, Fanyang and Tan, Wen and Li, Chao and Wang, Genhong and Liang, Yongsheng [paper](https://ieeexplore.ieee.org/abstract/document/10447424)
 
@@ -37,7 +38,8 @@
 
 - (TMM 2024) **Neural Network Coding of Difference Updates for Efficient Distributed Learning Communication** Sheng, Xihua and Li, Li and Liu, Dong and Li, Houqiang [paper](https://arxiv.org/pdf/2401.15864.pdf)
 
-
+- (TCSVT 2024) **FICNet: An End to End Network for Free-view Image Coding** Yang, Chunhui and Yang, Jiayu and Zhai, Yongqi and Wang, Ronggang[paper](https://ieeexplore.ieee.org/document/10504389?denied=)
+- (TCSVT 2024) **GroupedMixer: An Entropy Model with Group-wise Token-Mixers for Learned Image Compression** Li, Daxin and Bai, Yuanchao and Wang, Kai and Jiang, Junjun and Liu, Xianming and Gao, Wen [paper](https://arxiv.org/pdf/2405.01170)
 - (TCSVT 2024) **Multirate Progressive Entropy Model for Learned Image Compression** Li, Chao and Yin, Shanzhi and Jia, Chuanmin and Meng, Fanyang and Tian, Yonghong and Liang, Yongsheng [paper](https://ieeexplore.ieee.org/document/10471618)
 - (TCSVT 2024) **EUICN: An Efficient Underwater Image Compression Network** Li, Mengyao and Shen, Liquan and Hua, Xia and Tian, Zhaoyi [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445326)
 - (TCSVT 2024) **Rate-Distortion Optimized Cross Modal Compression with Multiple Domains** Gao, Junlong and Jia, Chuanmin and Huang, Zhimeng and Wang, Shanshe and Ma, Siwei and Gao, Wen [paper](https://ieeexplore.ieee.org/abstract/document/10430161)
@@ -59,11 +61,19 @@
 
 - (SPL 2024) **Learning-Based Image Compression With Parameter-Adaptive Rate-Constrained Loss**Guerin, Nilson D and da Silva, Renam Castro and Macchiavello, Bruno[paper](https://ieeexplore.ieee.org/abstract/document/10487041?casa_token=knUB41_TmBsAAAAA:a-OvI58YlhHCqICs5ondcAnowi-IGX2nx0TgWqjjp_VfILwGajk6aEbDfqpUAqvF6--XxzsqGQ)
 
+
+- (ICASSP 2024) **Fine color guidance in diffusion models and its application to image compression at extremely low bitrates**Bordin, Tom and Maugey, Thomas[paper](https://ieeexplore.ieee.org/document/10445837)
+
+- (Arxiv 2024) **Learning-Based Image Compression With Parameter-Adaptive Rate-Constrained Loss**Guerin, Nilson D and da Silva, Renam Castro and Macchiavello, Bruno[paper](https://ieeexplore.ieee.org/document/10487041)
+
+- (Arxiv 2024) **Domain Adaptation for Learned Image Compression with Supervised Adapters**Presta, Alberto and Spadaro, Gabriele and Tartaglione, Enzo and Fiandrotti, Attilio and Grangetto, Marco[paper](https://arxiv.org/pdf/2404.15591)
+
+
+- (Arxiv 2024) **Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior**Li, Zhiyuan and Zhou, Yanhui and Wei, Hao and Ge, Chenyang and Jiang, Jingwen[paper](https://arxiv.org/pdf/2404.18820)
+
 - (Arxiv 2024) **S2LIC: Learned Image Compression with the SwinV2 Block, Adaptive Channel-wise and Global-inter Attention Context**Wang, Yongqiang and Liang, Feng and Liang, Jie and Fu, Haisheng[paper](https://arxiv.org/pdf/2403.14471.pdf)
 
 - (Arxiv 2024) **Lossy Image Compression with Foundation Diffusion Models**WRelic, Lucas and Azevedo, Roberto and Gross, Markus and Schroers, Christopher[paper](https://arxiv.org/pdf/2404.08580.pdf)
-
-- (ICASSP 2024) **A Tri-Dynamic Preprocessing Framework for UGC Video Compression**Zhao, Fei and Guo, Mengxi and Zhao, Shijie and Li, Junlin and Zhang, Li and Xie, Xiaodong[paper](https://ieeexplore.ieee.org/document/10445837)
 
 - (Arxiv 2024) **Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder**Ma, Yiyang and Yang, Wenhan and Liu, Jiaying[paper](https://arxiv.org/html/2404.04916v1)
 - (Arxiv 2024) **Fine color guidance in diffusion models and its application to image compression at extremely low bitrates**Bordin, Tom and Maugey, Thomas[paper](https://arxiv.org/pdf/2404.06865.pdf)
