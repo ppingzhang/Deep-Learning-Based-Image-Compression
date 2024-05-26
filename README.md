@@ -74,10 +74,11 @@
 
 
 
-
-- (Arxiv 2024) **Learning-Based Image Compression With Parameter-Adaptive Rate-Constrained Loss**Guerin, Nilson D and da Silva, Renam Castro and Macchiavello, Bruno[paper](https://ieeexplore.ieee.org/document/10487041)
 - (Arxiv 2024) **Domain Adaptation for Learned Image Compression with Supervised Adapters**Presta, Alberto and Spadaro, Gabriele and Tartaglione, Enzo and Fiandrotti, Attilio and Grangetto, Marco[paper](https://arxiv.org/pdf/2404.15591)
 
+- (Arxiv 2024) **2D Gaussian Splatting for Image Compression**Pingping Zhang, Xiangrui Liu, Meng Wang, Shiqi Wang, Sam Kwong[paper](https://github.com/ppingzhang/2DGS_ImageCompression/blob/main/2DGS_APSIPA.pdf)
+
+- (Arxiv 2024) **Domain Adaptation for Learned Image Compression with Supervised Adapters**Presta, Alberto and Spadaro, Gabriele and Tartaglione, Enzo and Fiandrotti, Attilio and Grangetto, Marco[paper](https://arxiv.org/pdf/2404.15591)
 
 - (Arxiv 2024) **Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior**Li, Zhiyuan and Zhou, Yanhui and Wei, Hao and Ge, Chenyang and Jiang, Jingwen[paper](https://arxiv.org/pdf/2404.18820)
 
