@@ -64,8 +64,18 @@
 
 - (ICASSP 2024) **Fine color guidance in diffusion models and its application to image compression at extremely low bitrates**Bordin, Tom and Maugey, Thomas[paper](https://ieeexplore.ieee.org/document/10445837)
 
-- (Arxiv 2024) **Learning-Based Image Compression With Parameter-Adaptive Rate-Constrained Loss**Guerin, Nilson D and da Silva, Renam Castro and Macchiavello, Bruno[paper](https://ieeexplore.ieee.org/document/10487041)
 
+
+- (Arxiv 2024) **On the Adversarial Robustness of Learning-based Image Compression Against Rate-Distortion Attacks**Wu, Chenhao and Wu, Qingbo and Wei, Haoran and Chen, Shuai and Wang, Lei and Ngan, King Ngi and Meng, Fanman and Li, Hongliang[paper](https://arxiv.org/pdf/2405.07717)
+- (Arxiv 2024) **Scalable Image Coding for Humans and Machines Using Feature Fusion Network**Li, Junhui and Hou, Xingsong[paper](https://arxiv.org/pdf/2405.09152)
+- (Arxiv 2024) **Towards Task-Compatible Compressible Representations** de Andrade, Anderson and Baji{\'c}, Ivan[paper](https://arxiv.org/pdf/2405.10244)
+- (Arxiv 2024) **Enhancing Perception Quality in Remote Sensing Image Compression via Invertible Neural Network** Li, Junhui and Hou, Xingsong[paper](https://arxiv.org/pdf/2405.10518)
+- (Arxiv 2024) **NLIC: Non-uniform Quantization based Learned Image Compression** Ge, Ziqing and Ma, Siwei and Gao, Wen and Pan, Jingshan and Jia, Chuanmin[paper](https://ieeexplore.ieee.org/abstract/document/10531761)
+
+
+
+
+- (Arxiv 2024) **Learning-Based Image Compression With Parameter-Adaptive Rate-Constrained Loss**Guerin, Nilson D and da Silva, Renam Castro and Macchiavello, Bruno[paper](https://ieeexplore.ieee.org/document/10487041)
 - (Arxiv 2024) **Domain Adaptation for Learned Image Compression with Supervised Adapters**Presta, Alberto and Spadaro, Gabriele and Tartaglione, Enzo and Fiandrotti, Attilio and Grangetto, Marco[paper](https://arxiv.org/pdf/2404.15591)
 
 
