@@ -20,6 +20,16 @@
 - [Medical Image](#ma)
 
 
+# Group by time （This section stops updating from June 2024）
+
+- [2024](#2024)
+- [2023](#2023)
+- [2022](#2022)
+- [2021](#2021)
+- [2020](#2020)
+- [2019](#2019)
+- [2018](#2018)
+- [2017](#2017)
 
 
 ---
@@ -68,16 +78,6 @@
 - **Implicit Neural Image Field for Biological Microscopy Image Compression** (Arxiv 2024) [paper](https://arxiv.org/pdf/2405.19012)
 - **UniCompress: Enhancing Multi-Data Medical Image Compression with Knowledge Distillation** (Arxiv 2024) [paper](https://arxiv.org/pdf/2405.16850)
 
-# Group by time （This section stops updating from June 2024）
-
-- [2024](#2024)
-- [2023](#2023)
-- [2022](#2022)
-- [2021](#2021)
-- [2020](#2020)
-- [2019](#2019)
-- [2018](#2018)
-- [2017](#2017)
 
 
 
