@@ -33,7 +33,7 @@
 
 
 ---
-## <span id="GenerativeCompression">- Lossless Compression </span> [       «🎯Back To Top»       ](#)
+## <span id="GenerativeCompression">- Generative Compression </span> [       «🎯Back To Top»       ](#)
 
 - **LDM-RSIC: Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression** (Arxiv 2024) [paper](https://arxiv.org/pdf/2406.03961)
 
@@ -45,7 +45,7 @@
 
 - **CMC-Bench: Towards a New Paradigm of Visual Signal Compression** (Arxiv 2024) [paper](https://arxiv.org/abs/2406.09356) [code](https://github.com/Q-Future/CMC-Bench)
 
-- ** MISC: Ultra-low Bitrate Image Semantic Compression Driven by Large Multimodal Model** (Arxiv 2024) [paper](https://arxiv.org/pdf/2402.16749)
+- **MISC: Ultra-low Bitrate Image Semantic Compression Driven by Large Multimodal Model** (Arxiv 2024) [paper](https://arxiv.org/pdf/2402.16749)
 
 
 
