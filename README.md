@@ -4,7 +4,72 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ppingzhang/Awesome-Deep-Learning-Based-Image-Compression) ![GitHub stars](https://img.shields.io/github/stars/ppingzhang/Awesome-Deep-Learning-Based-Image-Compression.svg?color=red) 
 
-# Content
+
+# Contents (This part is updated from June 2024)
+
+- [Generative compression](#LosslessCompression)
+
+- [Lossless compression](#LosslessCompression)
+
+- [Variable Rate](#vr)
+
+- [Quantization](#quantization)
+
+- [Achitecture](#ar)
+
+- [Medical Image](#ma)
+
+
+
+
+---
+## <span id="GenerativeCompression">- Lossless Compression </span> [       «🎯Back To Top»       ](#)
+
+- **LDM-RSIC: Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression** (Arxiv 2024) [paper](https://arxiv.org/pdf/2406.03961)
+
+
+
+- **Generative Latent Coding for Ultra-Low Bitrate Image Compression** (CVPR 2024) [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Jia_Generative_Latent_Coding_for_Ultra-Low_Bitrate_Image_Compression_CVPR_2024_paper.pdf)
+
+- **Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption** (Arxiv 2024) [paper](https://arxiv.org/pdf/2406.00758)
+
+- **CMC-Bench: Towards a New Paradigm of Visual Signal Compression** (Arxiv 2024) [paper](https://arxiv.org/abs/2406.09356) [code](https://github.com/Q-Future/CMC-Bench)
+
+- ** MISC: Ultra-low Bitrate Image Semantic Compression Driven by Large Multimodal Model** (Arxiv 2024) [paper](https://arxiv.org/pdf/2402.16749)
+
+
+
+## <span id="LosslessCompression">- Lossless Compression </span> [       «🎯Back To Top»       ](#)
+
+- **Hybrid-context-based multi-prior entropy modeling for learned lossless image compression** (Parttern Recognition 2024) [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324003832)
+
+- **Learned Lossless Image Compression based on Bit Plane Slicing** (Parttern Recognition 2024) [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Learned_Lossless_Image_Compression_based_on_Bit_Plane_Slicing_CVPR_2024_paper.pdf)
+
+
+
+## <span id="vr">- Variable Rate </span> [       «🎯Back To Top»       ](#)
+
+- **RAQ-VAE: Rate-Adaptive Vector-Quantized Variational Autoencoder** (Arxiv 2024) [paper](https://arxiv.org/pdf/2405.14222)
+
+## <span id="quantization">- Quantization </span> [       «🎯Back To Top»       ](#)
+
+- **NLIC: Non-uniform Quantization based Learned Image Compression** (TCSVT 2024) [paper](https://ieeexplore.ieee.org/abstract/document/10531761)
+
+
+## <span id="ar">- Achitecture </span> [       «🎯Back To Top»       ](#)
+
+- **MambaVC: Learned Visual Compression with Selective State Spaces** (Arxiv 2024) [paper](https://arxiv.org/pdf/2405.15413) [code](https://github.com/QinSY123/2024-MambaVC)
+
+
+
+
+## <span id="ma">- Medical Image </span> [       «🎯Back To Top»       ](#)
+
+- **Implicit Neural Image Field for Biological Microscopy Image Compression** (Arxiv 2024) [paper](https://arxiv.org/pdf/2405.19012)
+- **UniCompress: Enhancing Multi-Data Medical Image Compression with Knowledge Distillation** (Arxiv 2024) [paper](https://arxiv.org/pdf/2405.16850)
+
+# Group by time （This section stops updating from June 2024）
+
 - [2024](#2024)
 - [2023](#2023)
 - [2022](#2022)
@@ -18,6 +83,9 @@
 
 ## <span id="2024">✔2024 </span> [       «🎯Back To Top»       ](#)
 
+- (SPL 2024) **OMR-NET: A Two-Stage Octave Multi-Scale Residual Network for Screen Content Image Compression** Jiang S, Ren T, Fu C, et al. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10552293&casa_token=HZozj0vMXvkAAAAA:_7rf8zPrb-WjgI1-i9BoraOqIEMGQdTWcvj2NUfc-3GEtogq1VavMVzi2kKx8yF3hrNoAX6lfg&tag=1)
+
+
 - (TPAMI 2024) **I2C: Invertible Continuous Codec for High-Fidelity Variable-Rate Image Compression** Cai, Shilv and Chen, Liqun and Zhang, Zhijun and Zhao, Xiangyun and Zhou, Jiahuan and Peng, Yuxin and Yan, Luxin and Zhong, Sheng and Zou, Xu [paper](https://ieeexplore.ieee.org/abstract/document/10411123)
 
 - (ICASSP 2024) **Leveraging Redundancy in Feature for Efficient Learned Image CompressionN** Qin, Peng and Bao, Youneng and Meng, Fanyang and Tan, Wen and Li, Chao and Wang, Genhong and Liang, Yongsheng [paper](https://ieeexplore.ieee.org/abstract/document/10447424)
@@ -26,7 +94,6 @@
 - (ICASSP 2024) **Enhancing Adversarial Training with Prior Knowledge Distillation for Robust Image Compression** Zhi, Cao and Youneng, Bao and Fanyang, Meng and Chao, Li and Wen, Tan and Genhong, Wang and Yongsheng, Liang[paper](https://arxiv.org/pdf/2403.06700v1.pdf)
 
 - (AAAI 2024) **Make Lossy Compression Meaningful for Low-Light Images** Cai, Shilv and Chen, Liqun and Zhong, Sheng and Yan, Luxin and Zhou, Jiahuan and Zou, Xu [paper](https://ojs.aaai.org/index.php/AAAI/article/download/28664/29289)
-- (AAAI 2024) **End-to-End RGB-D Image Compression via Exploiting Channel-Modality Redundancy** Zheng, Huiming and Gao, Wei [paper](https://ojs.aaai.org/index.php/AAAI/article/download/28588/29143)
 - (AAAI 2024) **End-to-End RGB-D Image Compression via Exploiting Channel-Modality Redundancy** Zheng, Huiming and Gao, Wei [paper](https://ojs.aaai.org/index.php/AAAI/article/download/28588/29143)
 
 - (CVPR 2024) **Towards Backward-Compatible Continual Learning of Image Compression** Duan, Zhihao and Lu, Ming and Yang, Justin and He, Jiangpeng and Ma, Zhan and Zhu, Fengqing [paper](https://arxiv.org/pdf/2402.18862v1.pdf)
