@@ -15,7 +15,13 @@
 
 - [Quantization](#quantization)
 
+- [Entropy Model](#em)
+
 - [Achitecture](#ar)
+
+- [Screen Content Image](#screen)
+
+- [HDR Image](#hdr)
 
 - [Medical Image](#ma)
 
@@ -33,11 +39,23 @@
 
 
 ---
-## <span id="GenerativeCompression">- Generative Compression </span> [       «🎯Back To Top»       ](#)
+## <span id="GenerativeCompression"> Generative Compression </span> [       «🎯Back To Top»       ](#)
+
+- **Image Encryption and Compression Based on Reversed Diffusion Model** (PCS 2024) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10566414&casa_token=4U0sgUNsxyQAAAAA:0ayUIqrQmKrwfM8v1sE67ZZaS48OiReJjRZdRqHyTlnCHI4zm_PSEqwM4QsvNI7qccQzSXg)
+
+- **Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption** (arXiv 2024) [paper](https://arxiv.org/pdf/2406.00758)
+
+- **Machine Perception-Driven Facial Image Compression: A Layered Generative Approach** (TCSVT 2024) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10570244&casa_token=xkZkXmlgP3wAAAAA:DYmBBrPQf2IwWoUAF70Te7XtdfSg85ud771PVI_vkfwCbjPUTB1cGuM3k_levF40o4NmV-s)
+
+- **Understanding is Compression** (arXiv 2024) [paper](https://arxiv.org/pdf/2407.07723)
+- **High Efficiency Image Compression for Large Visual-Language Models** (arXiv 2024) [paper](https://arxiv.org/pdf/2407.17060)
+- **Consistency Guided Diffusion Model with Neural Syntax for Perceptual Image Compression** (ACM MM ) [paper](https://openreview.net/pdf?id=nSUMQhITdd)
+- **Zero-Shot Image Compression with Diffusion-Based Posterior Sampling** (arXiv 2024) [paper](https://arxiv.org/pdf/2407.09896)
+- **High Frequency Matters: Uncertainty Guided Image Compression with Wavelet Diffusion** (arXiv 2024) [paper](https://arxiv.org/pdf/2407.12538)
+
+- **Exploiting Inter-Image Similarity Prior for Low-Bitrate Remote Sensing Image Compression** (arXiv 2024) [paper](https://arxiv.org/pdf/2407.12295)
 
 - **LDM-RSIC: Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression** (Arxiv 2024) [paper](https://arxiv.org/pdf/2406.03961)
-
-
 
 - **Generative Latent Coding for Ultra-Low Bitrate Image Compression** (CVPR 2024) [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Jia_Generative_Latent_Coding_for_Ultra-Low_Bitrate_Image_Compression_CVPR_2024_paper.pdf)
 
@@ -49,7 +67,9 @@
 
 
 
-## <span id="LosslessCompression">- Lossless Compression </span> [       «🎯Back To Top»       ](#)
+
+
+## <span id="LosslessCompression"> Lossless Compression </span> [       «🎯Back To Top»       ](#)
 
 - **Hybrid-context-based multi-prior entropy modeling for learned lossless image compression** (Parttern Recognition 2024) [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324003832)
 
@@ -57,23 +77,75 @@
 
 
 
-## <span id="vr">- Variable Rate </span> [       «🎯Back To Top»       ](#)
+## <span id="vr"> Variable Rate </span> [       «🎯Back To Top»       ](#)
 
 - **RAQ-VAE: Rate-Adaptive Vector-Quantized Variational Autoencoder** (Arxiv 2024) [paper](https://arxiv.org/pdf/2405.14222)
 
-## <span id="quantization">- Quantization </span> [       «🎯Back To Top»       ](#)
 
+
+
+
+## <span id="quantization"> Quantization </span> [       «🎯Back To Top»       ](#)
+- **A Quantization Loss Compensation Network for Remote Sensing Image Compression** (PCS 2024) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10566339&casa_token=6MnXai1ergEAAAAA:98ttJhOF_UU12y_KPlwG0kWpI35xBScxcKz4gIbyAdOow-5pe4hasuqIPeC7nBrnavlgr7Y)
+- **Image and Video Tokenization with Binary Spherical Quantization** (arXiv 2024) [paper](https://arxiv.org/pdf/2406.07548)
 - **NLIC: Non-uniform Quantization based Learned Image Compression** (TCSVT 2024) [paper](https://ieeexplore.ieee.org/abstract/document/10531761)
 
 
-## <span id="ar">- Achitecture </span> [       «🎯Back To Top»       ](#)
+
+
+## <span id="em">- Entropy Model </span> [       «🎯Back To Top»       ](#)
+- **Spatial-Temporal Context Model for Remote Sensing Imagery Compression** (ACM MM ) [paper](https://openreview.net/pdf?id=YTNN0mOPQN)
+- **WeConvene: Learned Image Compression with Wavelet-Domain Convolution and Entropy Model** (arXiv 2024) [paper](https://arxiv.org/pdf/2407.09983)
+- **Rethinking Learned Image Compression: Context is All You Need** (arXiv 2024) [paper](https://arxiv.org/pdf/2407.11590)
+- **Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model** (arXiv 2024) [paper](https://arxiv.org/pdf/2407.10632)
+
+
+
+
+## <span id="ar"> Achitecture </span> [       «🎯Back To Top»       ](#)
+
+- **Practical Learned Image Compression with Online Encoder Optimization** (PCS 2024) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10566341&casa_token=5IwoTIplk3sAAAAA:qmSZUREE9iZFM3FtnOzIscEwUAonnBfKeBw8tRob7l35ZWuRRaxxcKx68NXw8vRraaBVmrU)
+
+- **Saliency Map-Guided End-to-End Image Coding for Machines** (SPL 2024) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10574324&casa_token=3hjufBt4DOEAAAAA:ZVH9S11WP5wB3eRmfHs02WCpHHe4_7cHo1SWnMNBuwaCoOJgkxOWk3UXhyUBlAVpCW4fgy4)
+
+- **On Efficient Neural Network Architectures for Image Compression** (arXiv 2024) [paper](https://arxiv.org/pdf/2406.10361)
+
+- **A Study on the Effect of Color Spaces in Learned Image Compression** (arXiv 2024) [paper](https://arxiv.org/pdf/2406.13709)
+
+- **Learning-Based Conditional Image Compression** (ISCAS 2024) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10558571&casa_token=7OHwnFHkwDUAAAAA:fZ9rVL-B_QI8BT4AWEJkS8-M07rg9VWUxSY3Z1MBlWqoNQtpc4l9wDjz4uchHFS2SPZErEI)
+
+
+- **Redundancy Removal Module for Reducing the Bitrates of Image Coding for Machines** (ISCAS 2024) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10557851&casa_token=Fu-eEJDIq1gAAAAA:ap6uExZfQWevfhbLwgq3NoH-Q3SR4UBhsSFF7tnnAMTTsZjDPpUz73J0dSMhwR0B0iwQgH8)
+
+- **Asymmetric Neural Image Compression with High-Preserving Information** (ISCAS 2024) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10558635&casa_token=iR30sgfqXX0AAAAA:CygeYdTY8WGiAaUw68kNTiQAcmmiu1nSCbQ13daszhrMk4SO72ODDxLDgjAmHnlCXWRBwBs)
+- **Wavelet-like Transform with Subbands Fusion in Decoupled Structure for Deep Image Compression** (PCS 2024) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10566428&casa_token=wYpGkb8wjkQAAAAA:xImfyLYnypOrxhvo6O4UHwHGsOVstRa_6jbBbmRMPdlJLMkBZsULXdcdHJ2wWnVIxkZkmsI)
+
+- **FDNet: Frequency Decomposition Network for Learned Image Compression** (TCSVT 2024) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10559830&casa_token=FWJQglVJO3MAAAAA:BTaIvWu6YnP42QFsGfQak48wjhoAfmxhLVSZjJX-kgjRJ-2dH3y3tteKQn8h5-U-YCZP-IE)
+
+- **Image Compression for Machine and Human Vision with Spatial-Frequency Adaptation** (arXiv 2024) [paper](https://arxiv.org/pdf/2407.09853)
+
+- **Rate-Distortion-Cognition Controllable Versatile Neural Image Compression** (arXiv 2024) [paper](https://arxiv.org/pdf/2407.11700)
 
 - **MambaVC: Learned Visual Compression with Selective State Spaces** (Arxiv 2024) [paper](https://arxiv.org/pdf/2405.15413) [code](https://github.com/QinSY123/2024-MambaVC)
 
 
 
 
-## <span id="ma">- Medical Image </span> [       «🎯Back To Top»       ](#)
+
+## <span id="screen"> Screen Content Image </span> [       «🎯Back To Top»       ](#)
+
+- **DSCIC: Deep Screen Content Image Compression** (TCSVT 2024) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10577165&casa_token=ddUlyV468d4AAAAA:Ep5T9S4nD7zCZWS-ml46aRYuuKqAYMW518K3gLntWQ7GDCjuPpxRY5M7B7UtF42qZ_KiiuU&tag=1)
+
+
+## <span id="hdr"> HDR Image </span> [       «🎯Back To Top»       ](#)
+
+- **Learned HDR Image Compression for Perceptually Optimal Storage and Display** (arXiv 2024) [paper](https://arxiv.org/pdf/2407.13179)
+
+
+
+
+
+## <span id="ma"> Medical Image </span> [       «🎯Back To Top»       ](#)
 
 - **Implicit Neural Image Field for Biological Microscopy Image Compression** (Arxiv 2024) [paper](https://arxiv.org/pdf/2405.19012)
 - **UniCompress: Enhancing Multi-Data Medical Image Compression with Knowledge Distillation** (Arxiv 2024) [paper](https://arxiv.org/pdf/2405.16850)
@@ -197,7 +269,6 @@
 - (Arxiv 2024) **GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting** Zhang, Xinjie and Ge, Xingtong and Xu, Tongda and He, Dailan and Wang, Yan and Qin, Hongwei and Lu, Guo and Geng, Jing and Zhang, Jun[paper](https://arxiv.org/pdf/2403.08551v1.pdf)
 - (Arxiv 2024) **Wavelet-Like Transform-Based Technology in Response to the Call for Proposals on Neural Network-Based Image Coding** Dong, Cunhui and Ma, Haichuan and Zhang, Haotian and Gao, Changsheng and Li, Li and Liu, Dong[paper](https://arxiv.org/pdf/2403.05937v1.pdf)
 - (Arxiv 2024) **Region-Adaptive Transform with Segmentation Prior for Image Compression** Liu, Yuxi and Yang, Wenhan and Bai, Huihui and Wei, Yunchao and Zhao, Yao[paper](https://arxiv.org/pdf/2403.00628.pdf)
-- (Arxiv 2024) **Enhancing the Rate-Distortion-Perception Flexibility of Learned Image Codecs with Conditional Diffusion Decoders** Mari, Daniele and Milani, Simone[paper](https://arxiv.org/pdf/2403.02887v1.pdf)
 
 - (Arxiv 2024) **LEARNED IMAGE COMPRESSION WITH TEXT QUALITY ENHANCEMENT** Lai, Chih-Yu and Tran, Dung and Koishida, Kazuhito[paper](https://arxiv.org/pdf/2402.08643.pdf)
 - (Arxiv 2024) **Variable-Rate Learned Image Compression with Multi-Objective Optimization and Quantization-Reconstruction Offsets** Kamisli, Fatih and Racape, Fabien and Choi, Hyomin[paper](https://arxiv.org/pdf/2402.18930v1.pdf)
