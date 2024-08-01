@@ -130,14 +130,11 @@
 |[Learned HDR Image Compression for Perceptually Optimal Storage and Display](https://arxiv.org/pdf/2407.13179) | arXiv 2024
 
 
-
-
-
-
-## <span id="ma"> Medical Image </span> [       «🎯Back To Top»       ](#)
-
-- **Implicit Neural Image Field for Biological Microscopy Image Compression** (Arxiv 2024) [paper](https://arxiv.org/pdf/2405.19012)
-- **UniCompress: Enhancing Multi-Data Medical Image Compression with Knowledge Distillation** (Arxiv 2024) [paper](https://arxiv.org/pdf/2405.16850)
+### <span id="ma"> Medical Image
+| Title | Pub. & Date
+|:-----|:-----:|
+|[Implicit Neural Image Field for Biological Microscopy Image Compression](https://arxiv.org/pdf/2405.19012) |  Arxiv 2024
+|[UniCompress: Enhancing Multi-Data Medical Image Compression with Knowledge Distillation](https://arxiv.org/pdf/2405.16850) | Arxiv 2024
 
 
 
