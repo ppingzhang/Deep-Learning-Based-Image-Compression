@@ -106,7 +106,6 @@
 ### <span id="em"> Entropy Model
 | Title | Pub. & Date
 |:-----|:-----:|
-
 |[Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression](https://arxiv.org/pdf/2410.07669) | arXiv 2024
 |[Causal Context Adjustment Loss for Learned Image Compression](https://arxiv.org/pdf/2410.04847) | arXiv 2024
 |[Spatial-Temporal Context Model for Remote Sensing Imagery Compression](https://openreview.net/pdf?id=YTNN0mOPQN) | ACM MM 2024
@@ -126,9 +125,7 @@
 | Title | Pub. & Date
 |:-----|:-----:|
 |[Test-time adaptation for image compression with distribution regularization](https://arxiv.org/pdf/2410.12191) | arXiv 2024
-
 |[Effectiveness of learning-based image codecs on fingerprint storage](https://arxiv.org/pdf/2409.18730) | arXiv 2024
-
 |[Gabic: Graph-Based Attention Block for Image Compression](https://arxiv.org/abs/2410.02981) | ICIP 2024
 |[Streaming Neural Images](https://arxiv.org/pdf/2409.17134) | ICIP 2024
 |[Bi-Level Spatial and Channel-aware Transformer for Learned Image Compression](https://www.arxiv.org/pdf/2408.03842) | arXiv 2024
