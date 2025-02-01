@@ -69,7 +69,6 @@
 | [Zero-Shot Image Compression with Diffusion-Based Posterior Sampling](https://arxiv.org/pdf/2407.09896) | arXiv 2024
 | [High Frequency Matters: Uncertainty Guided Image Compression with Wavelet Diffusion](https://arxiv.org/pdf/2407.12538) | arXiv 2024
 |[Exploiting Inter-Image Similarity Prior for Low-Bitrate Remote Sensing Image Compression](https://arxiv.org/pdf/2407.12295) | arXiv 2024
-| [Exploiting Inter-Image Similarity Prior for Low-Bitrate Remote Sensing Image Compression](https://arxiv.org/pdf/2407.12295) | arXiv 2024
 | [LDM-RSIC: Exploring Distortion Prior with Latent Diffusion Models for Remote Sensing Image Compression](https://arxiv.org/pdf/2406.03961) | arXiv 2024
 | [Generative Latent Coding for Ultra-Low Bitrate Image Compression](https://openaccess.thecvf.com/content/CVPR2024/papers/Jia_Generative_Latent_Coding_for_Ultra-Low_Bitrate_Image_Compression_CVPR_2024_paper.pdf) | CVPR 2024 
 | [Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaption](https://arxiv.org/pdf/2406.00758) | arXiv 2024 
