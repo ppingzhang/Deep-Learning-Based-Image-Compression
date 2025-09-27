@@ -7,7 +7,7 @@
 
 # Contents (After June 2024)
 
-- [Generative compression](#LosslessCompression)
+- [Generative compression](#Generative)
 
 - [Lossless compression](#LosslessCompression)
 
@@ -29,7 +29,7 @@
 
 - [Implicit neural representation (INR)](#inr)
 
-- [Panoramic Image](#pi)
+- [Panoramic/stereo Image](#pi)
 
 - [Benchmark & Dataset & Survey](#bmk)
 
@@ -52,10 +52,23 @@
 
 | Title | Pub. & Date
 |:-----|:-----:|
+|[Rate-Distortion-Cognition Controllable Versatile Neural Image Compression](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07338.pdf)| ECCV 2025
+|[Lossy Image Compression with Foundation Diffusion Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07844.pdf)| ECCV 2025
+|[EGIC: Enhanced Low-Bit-Rate Generative Image Compression Guided by Semantic Segmentation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05155.pdf)| ECCV 2025
+|[DC-AR: Efficient Masked Autoregressive Image Generation with Deep Compression Hybrid Tokenizer](https://arxiv.org/pdf/2507.04947)| ICCV 2025
+|[StableCodec: Taming One-Step Diffusion for Extreme Image Compression](https://arxiv.org/pdf/2506.21977)| ICCV 2025
+|[DLF: Extreme Image Compression with Dual-generative Latent Fusion](https://iccv.thecvf.com/virtual/2025/poster/577)| ICCV 2025
+|[Cross-Granularity Online Optimization with Masked Compensated Information for Learned Image Compression](https://iccv.thecvf.com/virtual/2025/poster/2681)| ICCV 2025
+|[Decouple Distortion from Perception: Region Adaptive Diffusion for Extreme-low Bitrate Perception Image Compression](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Decouple_Distortion_from_Perception_Region_Adaptive_Diffusion_for_Extreme-low_Bitrate_CVPR_2025_paper.pdf)| CVPR 2025
+|[Ultra Lowrate Image Compression with Semantic Residual Coding and Compression-aware Diffusion](https://openreview.net/forum?id=xiVuqZZ59O)| ICML 2025
+|[Zero-Shot Image Compression with Diffusion-Based Posterior Sampling](https://openreview.net/pdf?id=qi7udwV66M) | arXiv 2025
+|[Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaptation](https://openreview.net/forum?id=z0hUsPhwUN)| ICLR 2025
+|[Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression](https://ojs.aaai.org/index.php/AAAI/article/view/33403)| AAAI 2025
+|[GLIC: General Format Learned Image Compression](https://ojs.aaai.org/index.php/AAAI/article/view/33175)| AAAI 2025
 |[Efficient Progressive Image Compression with Variance-aware Masking](http://arxiv.org/abs/2411.10185v3) | arXiv 2024
 |[UniMIC: Towards Universal Multi-modality Perceptual Image Compression](None) | arXiv 2024
 |[Progressive Compression with Universally Quantized Diffusion Models](http://arxiv.org/abs/2412.10935v2) | arXiv 2024
-|[Controllable Distortion-Perception Tradeoff Through Latent Diffusion for Neural Image Compression](http://arxiv.org/abs/2412.11379v1) | arXiv 2024
+|[Controllable Distortion-Perception Tradeoff Through Latent Diffusion for Neural Image Compression](http://arxiv.org/abs/2412.11379v1) | AAAI 2025
 |[ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck](https://arxiv.org/pdf/2407.19651) | arXiv 2024
 |[Stable Diffusion is a Natural Cross-Modal Decoder for Layered AI-generated Image Compression](http://arxiv.org/abs/2412.12982v1) | arXiv 2024
 |[Linearly transformed color guide for low-bitrate diffusion based image compression](http://arxiv.org/abs/2407.12538v1) | TIP 2024
@@ -80,9 +93,16 @@
 ### <span id="LosslessCompression"> Lossless Compression 
 | Title | Pub. & Date
 |:-----|:-----:|
+|[Fitted Neural Lossless Image Compression](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Fitted_Neural_Lossless_Image_Compression_CVPR_2025_paper.pdf)| CVPR 2025
+|[Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need](https://arxiv.org/pdf/2411.12448)| NeurIPS 2026
+|[SEEC: Segmentation-Assisted Multi-Entropy Models for Learned Lossless Image Compression](https://arxiv.org/pdf/2509.07704) | arXiv 2025
+|[CALLIC: Content Adaptive Learning for Lossless Image Compression](https://arxiv.org/abs/2412.17464) | AAAI 2025
+|[Learning Lossless Compression for High Bit-Depth Volumetric Medical Image](https://arxiv.org/pdf/2410.17814) | arXiv 2024
+|[Rate-Complexity Optimization in Lossless Neural-Based Image Compression](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10647302&casa_token=xbYddfRSqMoAAAAA:19cLT7kxdjVYv0j84IsNlUYujos72wpW_2phbqj45fjq-mNwLktHwGzZwENu4faVl1nvkhA) | ICIP 2024
 |[Random Cycle Coding: Lossless Compression of Cluster Assignments via Bits-Back Coding](http://arxiv.org/abs/2412.00369v1) | arXiv 2024
 |[Hybrid-context-based multi-prior entropy modeling for learned lossless image compression](https://www.sciencedirect.com/science/article/abs/pii/S0031320324003832) | Pattern Recognition 2024
 |[Learned Lossless Image Compression based on Bit Plane Slicing](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Learned_Lossless_Image_Compression_based_on_Bit_Plane_Slicing_CVPR_2024_paper.pdf) | Pattern Recognition 2024 
+
 
 
 ### <span id="vr"> Variable Rate / Scalable Compression
@@ -93,7 +113,7 @@
 |[Variable-size Symmetry-based Graph Fourier Transforms for image compression](http://arxiv.org/abs/1907.07875v1) | arXiv 2024
 |[Latent Variables Coding for Perceptual Image Compression](http://arxiv.org/abs/2207.04324v2) | ACM MM 2024
 |[STanH: Parametric Quantization for Variable Rate Learned Image Compression](https://arxiv.org/pdf/2410.00557) | arXiv 2024
-| [RAQ-VAE: Rate-Adaptive Vector-Quantized Variational Autoencoder](https://arxiv.org/pdf/2405.14222) | Arxiv 2024
+|[RAQ-VAE: Rate-Adaptive Vector-Quantized Variational Autoencoder](https://arxiv.org/pdf/2405.14222) | Arxiv 2024
 
 
 
@@ -103,6 +123,7 @@
 ### <span id="quantization"> Quantization
 | Title | Pub. & Date
 |:-----|:-----:|
+|[Bridging the Gap between Gaussian Diffusion Models and Universal Quantization for Image Compression](https://openaccess.thecvf.com/content/CVPR2025/papers/Relic_Bridging_the_Gap_between_Gaussian_Diffusion_Models_and_Universal_Quantization_CVPR_2025_paper.pdf)| CVPR 2025
 |[Bridging the Gap between Diffusion Models and Universal Quantization for Image Compression](https://openreview.net/pdf?id=wqN6rWwYsr) | NeurIPSW 2024
 |[Learning Optimal Lattice Vector Quantizers for End-to-end Neural Image Compression](http://arxiv.org/abs/2411.16119v1) | arXiv 2024
 |[Convolution Filter Compression via Sparse Linear Combinations of Quantized Basis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10689618) | TNNLS 2024
@@ -119,29 +140,35 @@
 ### <span id="em"> Entropy Model
 | Title | Pub. & Date
 |:-----|:-----:|
+|[Learned Image Compression with Hierarchical Progressive Context Modeling](https://arxiv.org/abs/2507.19125)|ICCV 2025
+|[Test-time Adaptation for Image Compression with Distribution Regularization](https://openreview.net/forum?id=bsnRUkVn63)|ICLR 2025
+|[Exploring Autoregressive Vision Foundation Models for Image Compression](https://arxiv.org/pdf/2509.05169) | arXiv 2025
+|[Learned Image Compression Framework with Quad-Prior Entropy Model](https://openreview.net/pdf?id=J28aP5HsRJ) | arXiv 2025
+|[FlashGMM: Fast Gaussian Mixture Entropy Model for Learned Image Compression](https://arxiv.org/pdf/2509.18815) | arXiv 2025
 |[Generalized Gaussian Model for Learned Image Compression](http://arxiv.org/abs/2411.19320v1) | arXiv 2024
 |[The Gap Between Principle and Practice of Lossy Image Coding](http://arxiv.org/abs/2501.12330v1) | arXiv 2025
 |[Group Image Compression for Dual Use of Machine and Human Vision](http://arxiv.org/abs/2405.09152v5) | TCSVT 2024
 |[Diversify, Contextualize, and Adapt: Efficient Entropy Modeling for Neural Image Codec](http://arxiv.org/abs/2411.05832v1) | arXiv 2024
 |[Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression](https://arxiv.org/pdf/2410.07669) | arXiv 2024
-|[Causal Context Adjustment Loss for Learned Image Compression](https://arxiv.org/pdf/2410.04847) | arXiv 2024
+|[Causal Context Adjustment Loss for Learned Image Compression](https://arxiv.org/pdf/2410.04847) | NeurIPS 2024
 |[Spatial-Temporal Context Model for Remote Sensing Imagery Compression](https://openreview.net/pdf?id=YTNN0mOPQN) | ACM MM 2024
 |[WeConvene: Learned Image Compression with Wavelet-Domain Convolution and Entropy Model](https://arxiv.org/pdf/2407.09983) | arXiv 2024
 |[Rethinking Learned Image Compression: Context is All You Need](https://arxiv.org/pdf/2407.11590) | arXiv 2024
 |[Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model](https://arxiv.org/pdf/2407.10632) | arXiv 2024
 
-### <span id="LosslessCompression"> Lossless Compression 
-| Title | Pub. & Date
-|:-----|:-----:|
-|[CALLIC: Content Adaptive Learning for Lossless Image Compression](https://arxiv.org/abs/2412.17464) | arXiv 2024
-|[Learning Lossless Compression for High Bit-Depth Volumetric Medical Image](https://arxiv.org/pdf/2410.17814) | arXiv 2024
-|[Rate-Complexity Optimization in Lossless Neural-Based Image Compression](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10647302&casa_token=xbYddfRSqMoAAAAA:19cLT7kxdjVYv0j84IsNlUYujos72wpW_2phbqj45fjq-mNwLktHwGzZwENu4faVl1nvkhA) | ICIP 2024
-
-
 
 ### <span id="ar"> Achitecture
 | Title | Pub. & Date
 |:-----|:-----:|
+|[WeConvene: Learned Image Compression with Wavelet-Domain Convolution and Entropy Model](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06635.pdf)| ECCV 2025
+|[Region-Adaptive Transform with Segmentation Prior for Image Compression](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06270.pdf)| ECCV 2025
+|[BaSIC: BayesNet Structure Learning for Computational Scalable Neural Image Compression](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03640.pdf)| ECCV 2025
+|[Efficient Learned Image Compression Through Knowledge Distillation](https://arxiv.org/pdf/2509.10366)| ICCV 2025
+|[Cassic: Towards Content-Adaptive State-Space Models for Learned Image Compression](https://iccv.thecvf.com/virtual/2025/poster/2181)|ICCV 2025
+|[PICD: Versatile Perceptual Image Compression with Diffusion Rendering](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_PICD_Versatile_Perceptual_Image_Compression_with_Diffusion_Rendering_CVPR_2025_paper.pdf)| CVPR 2025
+|[MambaIC: State Space Models for High-Performance Learned Image Compression](https://openaccess.thecvf.com/content/CVPR2025/papers/Zeng_MambaIC_State_Space_Models_for_High-Performance_Learned_Image_Compression_CVPR_2025_paper.pdf)| CVPR 2025
+|[Unraveling Neural Cellular Automata for Lightweight Image Compression](https://openreview.net/pdf?id=gIrVoQEDQv)| arXiv 2025
+|[Approaching Rate-Distortion Limits in Neural Compression with Lattice Transform Coding](https://openreview.net/pdf?id=Tv36j85SqR)| ICLR 2025
 |[Learning Optimal Linear Block Transform by Rate Distortion Minimization](http://arxiv.org/abs/2411.18494v1) | arXiv 2024
 |[Sparse Point Clouds Assisted Learned Image Compression](http://arxiv.org/abs/2412.15752v1) | TCSVT 2024
 |[On Disentangled Training for Nonlinear Transform in Learned Image Compression](http://arxiv.org/abs/2501.13751v1) | arXiv 2025
@@ -173,6 +200,8 @@
 ### <span id="screen"> Screen Content Image
 | Title | Pub. & Date
 |:-----|:-----:|
+|[Learned HDR Image Compression for Perceptually Optimal Storage and Display](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06526.pdf)| ECCV 2025
+|[Efficient Screen Content Image Compression via Superpixel-based Content Aggregation and Dynamic Feature Fusion](https://www.ijcai.org/proceedings/2024/0134.pdf)| IJCAI 2024
 | [DSCIC: Deep Screen Content Image Compression](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10577165&casa_token=ddUlyV468d4AAAAA:Ep5T9S4nD7zCZWS-ml46aRYuuKqAYMW518K3gLntWQ7GDCjuPpxRY5M7B7UtF42qZ_KiiuU&tag=1) | TCSVT 2024
 
 
@@ -185,6 +214,8 @@
 ### <span id="icm"> Image coding for machine vision
 | Title | Pub. & Date
 |:-----|:-----:|
+|[Image Compression for Machine and Human Vision With Spatial-Frequency Adaptation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06823.pdf)| ECCV 2025
+|[A Unified Image Compression Method for Human Perception and Multiple Vision Tasks](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09009.pdf)| ECCV 2025
 |[Neural Image Compression with Regional Decoding](https://dl.acm.org/doi/10.1145/3708347) | ToMM 2024
 |[Saliency Segmentation Oriented Deep Image Compression With Novel Bit Allocation](http://arxiv.org/abs/2402.08862v1) | TIP 2024
 |[LL-ICM: Image Compression for Low-level Machine Vision via Large Vision-Language Model](None) | arXiv 2024
@@ -213,12 +244,15 @@
 ### <span id="inr"> Implicit Neural Representation
 | Title | Pub. & Date
 |:-----|:-----:|
+|[LotteryCodec: Searching the Implicit Representation in a Random Network for Low-Complexity Image Compression](https://openreview.net/forum?id=9u5hPIcr6j)| ICML 2025
+|[HyperCool: Reducing Encoding Cost in Overfitted Codecs with Hypernetworks](https://arxiv.org/pdf/2509.18748) | Arxiv 2025 |
 |[Redefining Visual Quality: The Impact of Loss Functions on INR-Based Image Compression](https://ieeexplore.ieee.org/abstract/document/10647328) | ICIP 2024
 |[Implicit Neural Image Field for Biological Microscopy Image Compression](https://ieeexplore.ieee.org/abstract/document/10647328?casa_token=4zOGbEd8ye4AAAAA:HK-ntiQYpO25P-fk_Dob31eeKFZOJ4CFqwOTT5ZaivzBkAUTfcXvoLWxHeaPhoH6K2_BtZHF-A) |  ICIP 2024
 
-### <span id="pi"> Panoramic Image
+### <span id="pi"> Panoramic/stereo Image
 | Title | Pub. & Date
 |:-----|:-----:|
+|[Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model](eccv2024.ecva.net//virtual/2024/poster/1797)| ECCV 2025
 |[Learning Content-Weighted Pseudocylindrical Representation for 360° Image Compression](https://ieeexplore.ieee.org/abstract/document/10721338/authors#authors) |  ICIP 2024
 
 ### <span id="bmk"> Benchmark & Dataset & Survey
@@ -232,16 +266,21 @@
 ### <span id="others"> Others
 | Title | Pub. & Date
 |:-----|:-----:|
+|[Dataset Distillation as Data Compression: A Rate-Utility Perspective](https://arxiv.org/pdf/2507.17221)| ICCV 2025
+|[Balanced Rate-Distortion Optimization in Learned Image Compression](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Balanced_Rate-Distortion_Optimization_in_Learned_Image_Compression_CVPR_2025_paper.pdf)| CVPR 2025
+|[Privacy-Shielded Image Compression: Defending Against Exploitation from Vision-Language Pretrained Models](https://openreview.net/forum?id=olzs3zVsE7)| ICML 2025
+|[Synonymous Variational Inference for Perceptual Image Compression](https://openreview.net/pdf?id=ialr09SfeJ)| ICML 2025
+|[CAMSIC: Content-aware Masked Image Modeling Transformer for Stereo Image Compression](https://ojs.aaai.org/index.php/AAAI/article/view/33111/35266)| AAAI 2025
 |[Robust and Transferable Backdoor Attacks Against Deep Image Compression With Selective Frequency Prior](http://arxiv.org/abs/2412.01646v1) | arXiv 2024
 |[JPEG AI Image Compression Visual Artifacts: Detection Methods and Dataset](http://arxiv.org/abs/2411.06810v1) | arXiv 2024
-|[An Information-Theoretic Regularizer for Lossy Neural Image Compression](http://arxiv.org/abs/2411.16727v2) | arXiv 2024
+|[An Information-Theoretic Regularizer for Lossy Neural Image Compression](http://arxiv.org/abs/2411.16727v2) | ICCV 2025
 |[Deep Learning-Based Image Compression for Wireless Communications: Impacts on Reliability, Throughput, and Latency](http://arxiv.org/abs/2411.10650v1) | arXiv 2024
 |[HNR-ISC: Hybrid Neural Representation for Image Set Compression](https://ieeexplore.ieee.org/document/10814661/) | TMM 2024
 |[Is JPEG AI going to change image forensics?](http://arxiv.org/abs/2412.03261v1) | arXiv 2024
 |[2D Gaussian Splatting for Image Compression](https://www.nowpublishers.com/article/OpenAccessDownload/SIP-20240025) | ATSIP 2024
 |[Cross-Platform Neural Video Coding: A Case Study](https://arxiv.org/pdf/2410.20145) | arXiv 2024
 |[Gone With the Bits: Benchmarking Bias in Facial Phenotype Degradation Under Low-Rate Neural Compression](https://openreview.net/pdf?id=zIrvyQdIG4) | ICMLW 2024
-|[Few-Shot Domain Adaptation for Learned Image Compression](https://arxiv.org/pdf/2409.11111) | arXiv 2024
+|[Few-Shot Domain Adaptation for Learned Image Compression](https://arxiv.org/pdf/2409.11111) | AAAI 2025
 
 ## <span id="2024">✔2024 </span> [       «🎯Back To Top»       ](#)
 
@@ -367,7 +406,7 @@
 - (Arxiv 2024) **Semantic Ensemble Loss and Latent Refinement for High-Fidelity Neural Image Compression** Li, Daxin and Bai, Yuanchao and Wang, Kai and Jiang, Junjun and Liu, Xianming [paper](https://arxiv.org/pdf/2401.14007.pdf)
 - (Arxiv 2024) **FLLIC: Functionally Lossless Image Compression** Zhang, Xi and Wu, Xiaolin [paper](https://arxiv.org/pdf/2401.13616.pdf)
 - (Arxiv 2024) **Fast Implicit Neural Representation Image Codec in Resource-limited Devices** Liu, Xiang and Chen, Jiahong and Chen, Bin and Liu, Zimo and An, Baoyi and Xia, Shu-Tao [paper](https://arxiv.org/pdf/2401.12587.pdf)
-- (Arxiv 2024) **Robustly overfitting latents for flexible neural image compression** Perugachi-Diaz, Yura and Gansekoele, Arwin and Bhulai, Sandjai [paper](https://arxiv.org/pdf/2401.17789.pdf)
+- (NeurPIS 2024) **Robustly overfitting latents for flexible neural image compression** Perugachi-Diaz, Yura and Gansekoele, Arwin and Bhulai, Sandjai [paper](https://arxiv.org/pdf/2401.17789.pdf)
 - (Arxiv 2024) **Saliency-aware End-to-end Learned Variable-Bitrate 360-degree Image Compression** Gungordu, Oguzhan and Tekalp, A Murat [paper](https://arxiv.org/pdf/2402.08862.pdf)
 - (Arxiv 2024) **Joint End-to-End Image Compression and Denoising: Leveraging Contrastive Learning and Multi-Scale Self-ONNs** Xie, Yuxin and Yu, Li and Pakdaman, Farhad and Gabbouj, Moncef[paper](https://arxiv.org/pdf/2402.05582.pdf)
 - (Arxiv 2024) **LEARNED COMPRESSION OF ENCODING DISTRIBUTIONS** Ulhaq, Mateen and Bajic, Ivan V[paper](https://www.sfu.ca/~mulhaq/assets/pdf/2024-icip-learned-compression-of-encoding-distributions.pdf)
