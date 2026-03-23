@@ -704,12 +704,13 @@ Learning with Denoising** Cheng, Ka Leong and Xie, Yueqi and Chen, Qifeng [paper
 
 
 - (arXiv preprint 2021) **Online Meta Adaptation for Variable-Rate Learned Image Compression**, Wei Jiang, Wei Wang, Songnan Li, Shan Liu [[paper]](https://arxiv.org/abs/2111.08256) (VR)
-
+- (arXiv preprint 2021) **Transformer-based Image Compression**, Ming Lu, Peiyao Guo, Huiqing Shi, Chuntong Cao, Zhan Ma [[paper](https://arxiv.org/abs/2111.06707)]
 
 ---
 
 ## <span id="2020">✔2020 </span> [       «🎯Back To Top»       ](#)
 
+- [arXiv preprint 2020] **Lossless Image Compression through Super-Resolution**, Sheng Cao, Chao-Yuan Wu, Philipp Krähenbühl [[paper](https://arxiv.org/abs/2004.02872)]
 
 ---
 
